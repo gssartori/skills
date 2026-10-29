@@ -1,0 +1,14 @@
+{
+  "name": "gsartori",
+  "owner": {
+    "name": "Gabriel Sartori",
+    "url": "https://gsartori.com"
+  },
+  "plugins": [
+    {
+      "name": "gsart-avulsas",
+      "source": "./plugins/gsart-avulsas",
+      "description": "Skills avulsas do Gabriel Sartori, fora de qualquer kit."
+    }
+  ]
+}
