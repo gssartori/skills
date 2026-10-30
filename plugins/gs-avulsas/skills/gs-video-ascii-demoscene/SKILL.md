@@ -1,5 +1,5 @@
 ---
-name: gsart-video-ascii-demoscene
+name: gs-video-ascii-demoscene
 description: Makes an animated explainer video in the "ASCII Demoscene" visual style (Retro Digital) as a single HTML canvas animation with sound effects, built around the user's own content. Use when the user asks for a video, animation or explainer in the ASCII Demoscene style.
 ---
 

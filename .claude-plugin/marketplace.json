@@ -6,8 +6,8 @@
   },
   "plugins": [
     {
-      "name": "gsart-avulsas",
-      "source": "./plugins/gsart-avulsas",
+      "name": "gs-avulsas",
+      "source": "./plugins/gs-avulsas",
       "description": "Skills avulsas do Gabriel Sartori, fora de qualquer kit."
     }
   ]

@@ -1,5 +1,5 @@
 ---
-name: gsart-video-flat-vector-science
+name: gs-video-flat-vector-science
 description: Makes an animated explainer video in the "Flat-Vector Science" visual style (Popular Explainer Looks) as a single HTML canvas animation with sound effects, built around the user's own content. Use when the user asks for a video, animation or explainer in the Flat-Vector Science style.
 ---
 
