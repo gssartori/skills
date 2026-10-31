@@ -4,11 +4,5 @@
     "name": "Gabriel Sartori",
     "url": "https://gsartori.com"
   },
-  "plugins": [
-    {
-      "name": "gs-avulsas",
-      "source": "./plugins/gs-avulsas",
-      "description": "Skills avulsas do Gabriel Sartori, fora de qualquer kit."
-    }
-  ]
+  "plugins": []
 }
