@@ -4,11 +4,5 @@
     "name": "Gabriel Sartori",
     "url": "https://gsartori.com"
   },
-  "plugins": [
-    {
-      "name": "gs-motion",
-      "source": "./plugins/gs-motion",
-      "description": "Estilos de vídeo animado do Gabriel Sartori: cada um transforma qualquer assunto num filme curto, com som, num visual próprio."
-    }
-  ]
+  "plugins": []
 }
