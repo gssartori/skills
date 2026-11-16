@@ -4,11 +4,14 @@ Prompts do Gabriel Sartori, também em [gsartori.com](https://gsartori.com/skill
 
 - [Aero Glass Desktop](aero-glass-desktop/): Vídeo dentro de uma área de trabalho de vidro do fim dos anos 2000: janelas translúcidas, brilho de aurora e barra de tarefas.
 - [Bitmap Paint Doodle](bitmap-paint-doodle/): Vídeo desenhado ao vivo num programa de pintura antigo: traço de lápis serrilhado, balde de tinta e colagens com Ctrl+V.
+- [Clockwork Orbits](clockwork-orbits/): Vídeo num orrery de latão: braços polidos, engrenagens e esferas de pedra girando sobre veludo verde.
+- [Crayon Fridge](crayon-fridge/): Vídeo em desenho de criança com giz de cera: rabiscos que passam da linha, céu em faixa e sol no canto.
 - [Flat Folks](flat-folks/): Vídeo em ilustração vetorial chapada: gente geométrica que anda, entrega coisas e troca olhares.
 - [Four-Color Heroes](four-color-heroes/): Vídeo de gibi de super-herói clássico: retícula, quatro cores e uma capa no final.
 - [Gibi da Rua](gibi-da-rua/): Vídeo de gibi infantil brasileiro: a turma da rua, a banda de latas e a capivara na porta da padaria.
 - [Glow Grove](glow-grove/): Vídeo em miniatura de musgo ao entardecer: bichinhos-cogumelo de massinha e esporos que brilham.
 - [Impact Frame](impact-frame/): Vídeo de mangá de luta: a página apanha, o obstáculo vira titã e cai em papel.
+- [Ink Diorama](ink-diorama/): Vídeo de cartoon em diorama: personagens-cartão de cabeça de feijão num mundo de brinquedo com bordas em tinta preta.
 - [Lightbox Test](lightbox-test/): Vídeo de mesa de luz de animador: rascunho azul, traço de grafite e o teste de lápis tocando.
 - [MacPaint 1984](macpaint-1984/): Vídeo em preto e branco de 1 bit, como os primeiros programas de pintura de 1984: janelas listradas e retratos pontilhados.
 - [Tankobon Story](tankobon-story/): Vídeo de mangá impresso em preto e branco: retícula, painéis inclinados e onomatopeias desenhadas.
