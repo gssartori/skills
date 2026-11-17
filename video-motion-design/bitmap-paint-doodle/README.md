@@ -2,24 +2,26 @@
 
 ![Bitmap Paint Doodle](https://media.gsartori.com/skills/bitmap-paint-doodle/cover-53e3b688.avif)
 
-Vídeo desenhado ao vivo num programa de pintura antigo: traço de lápis serrilhado, balde de tinta e colagens com Ctrl+V.
+A film drawn live in an old paint app: jagged pencil strokes, bucket fills and pasted layers.
 
-Monta um filme animado em JavaScript (1920×1080, com som) pintado ao vivo num programa de desenho de computador do começo dos anos 2000: traço de lápis serrilhado, retângulos tortos, balde de tinta que enche de uma vez, spray pontilhado e colagens empilhadas. A barra de rolagem leva a câmera de uma parte à outra.
+Create an animated JavaScript film (1920×1080, with sound) in an early-2000s computer paint program: jagged pencil strokes, uneven rectangles, instant bucket fills, dotted spray and stacked cutouts. The scrollbar carries the camera between sections.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/bitmap-paint-doodle
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/bitmap-paint-doodle
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/bitmap-paint-doodle. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/bitmap-paint-doodle. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

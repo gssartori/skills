@@ -2,24 +2,26 @@
 
 ![Flat Folks](https://media.gsartori.com/skills/flat-folks/cover-49998954.avif)
 
-Vídeo em ilustração vetorial chapada: gente geométrica que anda, entrega coisas e troca olhares.
+A film in flat vector illustration: geometric people walking, handing things over and making eye contact.
 
-Monta um filme animado em JavaScript (1920×1080, com som) em ilustração chapada e moderna, sem contorno, com uma sombra dura por cor. As pessoas têm proporção natural e atuam de verdade, e cada ideia vira um ícone num balão. Você descreve o assunto e o prompt monta as cenas.
+Create an animated JavaScript film (1920×1080, with sound) in modern flat illustration, without outlines and with one hard shadow per color. Naturally proportioned characters act out the story, while ideas become icons in speech bubbles. Describe your subject and the prompt guides the scenes.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video, Flat illustration.
 
-Prévia e detalhes: https://gsartori.com/skills/flat-folks
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/flat-folks
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/flat-folks. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/flat-folks. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

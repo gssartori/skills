@@ -1,27 +1,47 @@
-# Estilos de vídeo
+# Video motion design
 
-Prompts do Gabriel Sartori, também em [gsartori.com](https://gsartori.com/skills). Cada pasta tem o prompt.md (o texto que vai para a IA) e um README com a prévia.
+Style prompts for complete animated films, with visual previews.
 
-- [Aero Glass Desktop](aero-glass-desktop/): Vídeo dentro de uma área de trabalho de vidro do fim dos anos 2000: janelas translúcidas, brilho de aurora e barra de tarefas.
-- [Bitmap Paint Doodle](bitmap-paint-doodle/): Vídeo desenhado ao vivo num programa de pintura antigo: traço de lápis serrilhado, balde de tinta e colagens com Ctrl+V.
-- [Clockwork Orbits](clockwork-orbits/): Vídeo num orrery de latão: braços polidos, engrenagens e esferas de pedra girando sobre veludo verde.
-- [Crayon Fridge](crayon-fridge/): Vídeo em desenho de criança com giz de cera: rabiscos que passam da linha, céu em faixa e sol no canto.
-- [Flat Folks](flat-folks/): Vídeo em ilustração vetorial chapada: gente geométrica que anda, entrega coisas e troca olhares.
-- [Four-Color Heroes](four-color-heroes/): Vídeo de gibi de super-herói clássico: retícula, quatro cores e uma capa no final.
-- [Gibi da Rua](gibi-da-rua/): Vídeo de gibi infantil brasileiro: a turma da rua, a banda de latas e a capivara na porta da padaria.
-- [Glow Grove](glow-grove/): Vídeo em miniatura de musgo ao entardecer: bichinhos-cogumelo de massinha e esporos que brilham.
-- [Impact Frame](impact-frame/): Vídeo de mangá de luta: a página apanha, o obstáculo vira titã e cai em papel.
-- [Ink Diorama](ink-diorama/): Vídeo de cartoon em diorama: personagens-cartão de cabeça de feijão num mundo de brinquedo com bordas em tinta preta.
-- [Lightbox Test](lightbox-test/): Vídeo de mesa de luz de animador: rascunho azul, traço de grafite e o teste de lápis tocando.
-- [MacPaint 1984](macpaint-1984/): Vídeo em preto e branco de 1 bit, como os primeiros programas de pintura de 1984: janelas listradas e retratos pontilhados.
-- [Tankobon Story](tankobon-story/): Vídeo de mangá impresso em preto e branco: retícula, painéis inclinados e onomatopeias desenhadas.
-- [Textbook Cutaway](textbook-cutaway/): Vídeo de prancha de livro didático: um bloco em corte, com camadas, dutos e legendas exatas.
-- [Vector Arcade 1980](vector-arcade-1980/): Vídeo de fliperama vetorial de 1980: linhas de luz num tubo de TV, brilho de fósforo e rastro que demora a apagar.
-- [VHS Camcorder](vhs-camcorder/): Vídeo gravado em fita de filmadora dos anos 90: linhas de TV, cor que vaza, faixas de tracking e o PLAY na tela.
-- [Vintage Newsprint](vintage-newsprint/): Vídeo na primeira página de um jornal dos anos 50: papel amarelado, retícula nas ilustrações e marcas de lápis vermelho.
-- [Voxel Diorama](voxel-diorama/): Vídeo numa ilha flutuante de cubinhos: os blocos caem do céu, montam o cenário e cada parte do assunto ganha sua estação.
-- [Watercolor Wash](watercolor-wash-motion/): Vídeo em aquarela: camadas transparentes de tinta, bordas que secam mais escuras e papel de algodão com textura.
-- [Whiteboard Explainer](whiteboard-explainer-motion/): Vídeo desenhado ao vivo num quadro branco com canetas coloridas, apagado entre as partes, com marcas do que ficou.
-- [Win95 Desktop](win95-desktop/): Vídeo dentro de uma área de trabalho dos anos 90: janelas cinza em relevo, barras de título azuis e pixel nítido.
-- [Wood-Type Letterpress](wood-type-letterpress/): Vídeo em cartaz de tipografia de madeira: duas tintas, preto e vermelho, carimbadas em papel grosso com textura.
-- [Y2K Liquid Chrome](y2k-liquid-chrome/): Vídeo da virada do milênio: mercúrio líquido, letras de cromo inflado, fitas furta-cor e pílulas de vidro fosco.
+By Gabriel Sartori. Browse [gsartori.com](https://gsartori.com/skills) for previews and details. Each published item has a `prompt.md` for your AI and a README explaining how to use it.
+
+<table>
+<tr>
+<td width="33%" valign="top"><a href="aero-glass-desktop/"><img src="https://media.gsartori.com/skills/aero-glass-desktop/cover-f6ec35e4.avif" alt="Aero Glass Desktop" width="280"><br><strong>Aero Glass Desktop</strong></a><br>A film inside a late-2000s glass desktop: translucent windows, aurora light and a taskbar.</td>
+<td width="33%" valign="top"><a href="bitmap-paint-doodle/"><img src="https://media.gsartori.com/skills/bitmap-paint-doodle/cover-53e3b688.avif" alt="Bitmap Paint Doodle" width="280"><br><strong>Bitmap Paint Doodle</strong></a><br>A film drawn live in an old paint app: jagged pencil strokes, bucket fills and pasted layers.</td>
+<td width="33%" valign="top"><a href="clockwork-orbits/"><img src="https://media.gsartori.com/skills/clockwork-orbits/cover-c5463b51.avif" alt="Clockwork Orbits" width="280"><br><strong>Clockwork Orbits</strong></a><br>A film inside a brass orrery: polished arms, gears and stone spheres orbiting above green velvet.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="crayon-fridge/"><img src="https://media.gsartori.com/skills/crayon-fridge/cover-3a289930.avif" alt="Crayon Fridge" width="280"><br><strong>Crayon Fridge</strong></a><br>A film drawn in childhood crayons: scribbles outside the lines, a strip of sky and a sun in the corner.</td>
+<td width="33%" valign="top"><a href="flat-folks/"><img src="https://media.gsartori.com/skills/flat-folks/cover-49998954.avif" alt="Flat Folks" width="280"><br><strong>Flat Folks</strong></a><br>A film in flat vector illustration: geometric people walking, handing things over and making eye contact.</td>
+<td width="33%" valign="top"><a href="four-color-heroes/"><img src="https://media.gsartori.com/skills/four-color-heroes/cover-0c22fefc.avif" alt="Four-Color Heroes" width="280"><br><strong>Four-Color Heroes</strong></a><br>A classic superhero comic film: halftone dots, four-color printing and a cover at the end.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="gibi-da-rua/"><img src="https://media.gsartori.com/skills/gibi-da-rua/cover-68217469.avif" alt="Gibi da Rua" width="280"><br><strong>Gibi da Rua</strong></a><br>A Brazilian neighborhood comic film: a group of children, a tin-can band and a capybara by the bakery.</td>
+<td width="33%" valign="top"><a href="glow-grove/"><img src="https://media.gsartori.com/skills/glow-grove/cover-93ae1d15.avif" alt="Glow Grove" width="280"><br><strong>Glow Grove</strong></a><br>A miniature moss woodland at dusk: clay mushroom creatures and glowing spores.</td>
+<td width="33%" valign="top"><a href="impact-frame/"><img src="https://media.gsartori.com/skills/impact-frame/cover-dfe19c83.avif" alt="Impact Frame" width="280"><br><strong>Impact Frame</strong></a><br>An action-manga film: the page takes a hit, the obstacle becomes a giant and collapses into paper.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="ink-diorama/"><img src="https://media.gsartori.com/skills/ink-diorama/cover-f8f890ec.avif" alt="Ink Diorama" width="280"><br><strong>Ink Diorama</strong></a><br>A cartoon diorama film: bean-headed card characters in a toy world edged with black ink.</td>
+<td width="33%" valign="top"><a href="lightbox-test/"><img src="https://media.gsartori.com/skills/lightbox-test/cover-e26f8705.avif" alt="Lightbox Test" width="280"><br><strong>Lightbox Test</strong></a><br>An animator’s lightbox film: blue-pencil roughs, graphite cleanup and a pencil test in motion.</td>
+<td width="33%" valign="top"><a href="macpaint-1984/"><img src="https://media.gsartori.com/skills/macpaint-1984/cover-4b458cf4.avif" alt="MacPaint 1984" width="280"><br><strong>MacPaint 1984</strong></a><br>A one-bit black-and-white film: striped windows and stippled portraits from early paint software.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="tankobon-story/"><img src="https://media.gsartori.com/skills/tankobon-story/cover-4471fe16.avif" alt="Tankobon Story" width="280"><br><strong>Tankobon Story</strong></a><br>A printed black-and-white manga film: halftone screens, tilted panels and hand-drawn sound effects.</td>
+<td width="33%" valign="top"><a href="textbook-cutaway/"><img src="https://media.gsartori.com/skills/textbook-cutaway/cover-1cf564ed.avif" alt="Textbook Cutaway" width="280"><br><strong>Textbook Cutaway</strong></a><br>A science-textbook film: a cutaway block with layers, ducts and precise labels.</td>
+<td width="33%" valign="top"><a href="vector-arcade-1980/"><img src="https://media.gsartori.com/skills/vector-arcade-1980/cover-b919496f.avif" alt="Vector Arcade 1980" width="280"><br><strong>Vector Arcade 1980</strong></a><br>A vector-arcade film: light traces on a CRT, glowing phosphor and lingering trails.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="vhs-camcorder/"><img src="https://media.gsartori.com/skills/vhs-camcorder/cover-c59efe03.avif" alt="VHS Camcorder" width="280"><br><strong>VHS Camcorder</strong></a><br>A 1990s camcorder film: scan lines, color bleed, tracking bands and a PLAY overlay.</td>
+<td width="33%" valign="top"><a href="vintage-newsprint/"><img src="https://media.gsartori.com/skills/vintage-newsprint/cover-94c2b2f3.avif" alt="Vintage Newsprint" width="280"><br><strong>Vintage Newsprint</strong></a><br>A 1950s newspaper film: yellowed paper, halftone illustrations and red-pencil annotations.</td>
+<td width="33%" valign="top"><a href="voxel-diorama/"><img src="https://media.gsartori.com/skills/voxel-diorama/cover-1cbefa32.avif" alt="Voxel Diorama" width="280"><br><strong>Voxel Diorama</strong></a><br>A film on a floating voxel island: falling blocks build a world with a station for each idea.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="watercolor-wash-motion/"><img src="https://media.gsartori.com/skills/watercolor-wash-motion/cover-75f45735.avif" alt="Watercolor Wash" width="280"><br><strong>Watercolor Wash</strong></a><br>A watercolor film: transparent paint layers, drying edges and textured cotton paper.</td>
+<td width="33%" valign="top"><a href="whiteboard-explainer-motion/"><img src="https://media.gsartori.com/skills/whiteboard-explainer-motion/cover-ee3ced49.avif" alt="Whiteboard Explainer" width="280"><br><strong>Whiteboard Explainer</strong></a><br>A film drawn live with whiteboard markers, erased between sections with traces left behind.</td>
+<td width="33%" valign="top"><a href="win95-desktop/"><img src="https://media.gsartori.com/skills/win95-desktop/cover-72c50be3.avif" alt="Win95 Desktop" width="280"><br><strong>Win95 Desktop</strong></a><br>A film inside a 1990s desktop: beveled gray windows, blue title bars and crisp pixels.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="wood-type-letterpress/"><img src="https://media.gsartori.com/skills/wood-type-letterpress/cover-81d20578.avif" alt="Wood-Type Letterpress" width="280"><br><strong>Wood-Type Letterpress</strong></a><br>A wood-type poster film: black and red ink stamped onto thick textured paper.</td>
+<td width="33%" valign="top"><a href="y2k-liquid-chrome/"><img src="https://media.gsartori.com/skills/y2k-liquid-chrome/cover-fdc5e7c9.avif" alt="Y2K Liquid Chrome" width="280"><br><strong>Y2K Liquid Chrome</strong></a><br>A turn-of-the-millennium film: liquid mercury, inflated chrome lettering and iridescent ribbons.</td>
+</tr>
+</table>

@@ -2,24 +2,26 @@
 
 ![Clockwork Orbits](https://media.gsartori.com/skills/clockwork-orbits/cover-c5463b51.avif)
 
-Vídeo num orrery de latão: braços polidos, engrenagens e esferas de pedra girando sobre veludo verde.
+A film inside a brass orrery: polished arms, gears and stone spheres orbiting above green velvet.
 
-Monta um filme animado em JavaScript (1920×1080, com som) como um orrery de latão de colecionador: braços polidos saem de tubos em volta de um centro dourado, cada ideia vira uma esfera de pedra e cada pessoa um bonequinho de latão com rosto de esmalte. Uma manivela move tudo por engrenagens visíveis, até todos os braços se alinharem no clímax. Você descreve o assunto e o prompt monta o mecanismo.
+Create an animated JavaScript film (1920×1080, with sound) as a collector’s brass orrery. Polished arms extend from tubes around a golden center; ideas become stone spheres and people become brass figures with enamel faces. A crank drives visible gears until all arms align at the climax.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/clockwork-orbits
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/clockwork-orbits
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/clockwork-orbits. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/clockwork-orbits. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

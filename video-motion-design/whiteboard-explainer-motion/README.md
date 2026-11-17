@@ -2,24 +2,26 @@
 
 ![Whiteboard Explainer](https://media.gsartori.com/skills/whiteboard-explainer-motion/cover-ee3ced49.avif)
 
-Vídeo desenhado ao vivo num quadro branco com canetas coloridas, apagado entre as partes, com marcas do que ficou.
+A film drawn live with whiteboard markers, erased between sections with traces left behind.
 
-Monta um filme animado em JavaScript (1920×1080, com som) desenhado ao vivo com canetas de quadro branco: traço com tremor de mão, tinta que falha e acumula, e o apagador que limpa entre as partes deixando marcas do que estava lá. As canetas ficam na bandeja de alumínio embaixo.
+Create an animated JavaScript film (1920×1080, with sound) drawn live in whiteboard markers: hand tremor, uneven ink and an eraser that clears each section while leaving ghost marks. The markers rest on the aluminum tray below.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/whiteboard-explainer-motion
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/whiteboard-explainer-motion
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/whiteboard-explainer-motion. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/whiteboard-explainer-motion. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

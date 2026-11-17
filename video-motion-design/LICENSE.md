@@ -1,9 +1,9 @@
-# Licença dos prompts
+# Prompt license
 
-Os prompts desta pasta (Estilos de vídeo) são de Gabriel Sartori e estão sob a licença Creative Commons Atribuição 4.0 Internacional (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.pt-br
+The prompts in this collection (Video motion design) are by Gabriel Sartori, licensed under Creative Commons Attribution 4.0 International (CC BY 4.0): https://creativecommons.org/licenses/by/4.0/deed.en
 
-Você pode copiar, adaptar e usar inclusive em trabalho pago, desde que dê o crédito: o nome do autor, o link da página do prompt em gsartori.com e o aviso de que houve mudança, se houver. Os vídeos que você fizer com eles são seus.
+You may copy, adapt and use them, including for paid work, with appropriate credit: name the author, link to the prompt page on gsartori.com, link to the license and indicate any changes. The videos you create with them are yours.
 
-Exemplo de crédito: "Prompt de Gabriel Sartori (https://gsartori.com/skills), licença CC BY 4.0".
+Example credit: "Prompt by Gabriel Sartori (https://gsartori.com/skills), licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/deed.en)."
 
-Texto legal completo: https://creativecommons.org/licenses/by/4.0/legalcode.pt
+Full legal text: https://creativecommons.org/licenses/by/4.0/legalcode.en

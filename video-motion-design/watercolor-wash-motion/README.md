@@ -2,24 +2,26 @@
 
 ![Watercolor Wash](https://media.gsartori.com/skills/watercolor-wash-motion/cover-75f45735.avif)
 
-Vídeo em aquarela: camadas transparentes de tinta, bordas que secam mais escuras e papel de algodão com textura.
+A watercolor film: transparent paint layers, drying edges and textured cotton paper.
 
-Monta um filme animado em JavaScript (1920×1080, com som) em aquarela sobre papel de algodão: camadas transparentes de tinta, bordas que secam mais escuras, manchas que se espalham, granulação do pigmento e o rascunho a lápis por baixo. Bom para histórias e explicações mais leves.
+Create an animated JavaScript film (1920×1080, with sound) in watercolor on cotton paper: transparent pigment layers, deeper-toned drying edges, spreading washes, granulation and a visible pencil underdrawing. Suited to gentle stories and explanations.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/watercolor-wash-motion
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/watercolor-wash-motion
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/watercolor-wash-motion. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/watercolor-wash-motion. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

@@ -2,24 +2,26 @@
 
 ![Four-Color Heroes](https://media.gsartori.com/skills/four-color-heroes/cover-0c22fefc.avif)
 
-Vídeo de gibi de super-herói clássico: retícula, quatro cores e uma capa no final.
+A classic superhero comic film: halftone dots, four-color printing and a cover at the end.
 
-Monta um filme animado em JavaScript (1920×1080, com banda de metais) no estilo dos gibis de super-herói impressos em quatro cores: retícula, letreiros que explodem, um herói para cada parte do assunto e uma capa com raios no final. Você descreve o assunto e o prompt monta a revista.
+Create an animated JavaScript film (1920×1080, with brass-band music) in the style of four-color superhero comics: halftone dots, explosive lettering, a hero for each part of the subject and a final cover with radiating rays. Describe your subject and the prompt builds the comic.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/four-color-heroes
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/four-color-heroes
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/four-color-heroes. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/four-color-heroes. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

@@ -2,24 +2,26 @@
 
 ![Vector Arcade 1980](https://media.gsartori.com/skills/vector-arcade-1980/cover-b919496f.avif)
 
-Vídeo de fliperama vetorial de 1980: linhas de luz num tubo de TV, brilho de fósforo e rastro que demora a apagar.
+A vector-arcade film: light traces on a CRT, glowing phosphor and lingering trails.
 
-Monta um filme animado em JavaScript (1920×1080, com som) como uma tela de fliperama vetorial de 1980: tudo é feito de linhas de luz desenhadas por um feixe, com brilho, pontos mais fortes nos cantos, um leve tremor e o rastro do fósforo que demora a sumir. O som é de máquina de fliperama, com zumbido de transformador e feixe que varre.
+Create an animated JavaScript film (1920×1080, with sound) resembling a 1980 vector arcade display. A beam draws everything as luminous lines, with bright corners, slight jitter and slowly fading phosphor trails. Arcade audio includes transformer hum and beam sweeps.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/vector-arcade-1980
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/vector-arcade-1980
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/vector-arcade-1980. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/vector-arcade-1980. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

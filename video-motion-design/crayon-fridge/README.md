@@ -2,24 +2,26 @@
 
 ![Crayon Fridge](https://media.gsartori.com/skills/crayon-fridge/cover-3a289930.avif)
 
-Vídeo em desenho de criança com giz de cera: rabiscos que passam da linha, céu em faixa e sol no canto.
+A film drawn in childhood crayons: scribbles outside the lines, a strip of sky and a sun in the corner.
 
-Monta um filme animado em JavaScript (1920×1080, com som) como o desenho que uma criança põe na geladeira: giz de cera no papel sobre a mesa da cozinha, traço que pula o grão, preenchimento rabiscado e letras à mão. O desenho é feito traço a traço e depois ganha vida, tremendo como desenho animado. Você descreve o assunto e o prompt desenha.
+Create an animated JavaScript film (1920×1080, with sound) like a child’s drawing on the refrigerator: crayons on paper over a kitchen table, strokes skipping across the grain, scribbled fills and hand lettering. The drawing appears stroke by stroke, then comes to life with a hand-drawn wobble.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video, Hand-drawn.
 
-Prévia e detalhes: https://gsartori.com/skills/crayon-fridge
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/crayon-fridge
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/crayon-fridge. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/crayon-fridge. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

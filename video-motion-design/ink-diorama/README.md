@@ -2,24 +2,26 @@
 
 ![Ink Diorama](https://media.gsartori.com/skills/ink-diorama/cover-f8f890ec.avif)
 
-Vídeo de cartoon em diorama: personagens-cartão de cabeça de feijão num mundo de brinquedo com bordas em tinta preta.
+A cartoon diorama film: bean-headed card characters in a toy world edged with black ink.
 
-Monta um filme animado em JavaScript (1920×1080, com som) como um curta de cartoon em diorama 2,5D: personagens chapados de contorno ameixa, recortados como cartões, atuam num cenário de caixas, tábuas e pedra pintadas, com foco raso e câmera que nunca para. A virada tem música parada, golpe grave e empurrão de câmera. Você descreve o assunto e o prompt monta o curta.
+Create an animated JavaScript film (1920×1080, with sound) as a 2.5D cartoon short: flat, plum-outlined card characters act on a set of painted boxes, planks and stone, with shallow focus and a continuously moving camera. The turning point combines a musical stop, a bass hit and a camera push.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/ink-diorama
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/ink-diorama
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/ink-diorama. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/ink-diorama. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

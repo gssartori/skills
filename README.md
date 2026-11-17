@@ -1,38 +1,38 @@
-# Skills e prompts do Gabriel Sartori
+# Skills and prompts by Gabriel Sartori
 
-As skills e os prompts próprios que aparecem em [gsartori.com](https://gsartori.com/skills). Este repositório é gerado pelo catálogo do site: mudanças feitas à mão são substituídas na próxima publicação.
+A growing library of reusable instructions for AI: video styles, design elements and other creative workflows. Browse previews and discover resources at [gsartori.com](https://gsartori.com/skills).
 
-## O que tem aqui
+## Browse the library
 
-- [video-motion-design/](video-motion-design/): prompts de estilos de vídeo, um por pasta (`prompt.md`).
+- [video-motion-design/](video-motion-design/): Style prompts for complete animated films, with visual previews.
+- [design-elements/](design-elements/): Reusable visual elements: buttons, controls, indicators, text, backgrounds and effects. Motion is one of their properties.
 
-## Instalar uma skill
+## How to use
 
-Em qualquer agente (Claude Code, Codex, Cursor e outros):
+**Prompt:** open an item, read its README and copy `prompt.md` into your AI. You can also use the copy button on its website page. A prompt does not require installing a plugin.
 
-```bash
-npx skills add gssartori/skills --skill gs-<nome>
-```
+**Skill:** reusable agent instructions in a folder with `SKILL.md` and optional supporting files. Installation depends on your agent.
 
-No Claude Code, como plugin:
+**Plugin:** an installable package that can contain multiple skills and other agent capabilities.
 
-```text
-/plugin marketplace add gssartori/skills
-/plugin install gs-<nome>@gsartori
-```
+There are no installable plugins in this repository yet. Browse the prompt collections above.
 
-Prompt não se instala: abra o `prompt.md` e cole na sua IA, ou use o botão "Copiar para a minha IA" no site.
+## Combine resources
 
-## Skills de terceiros
+Choose a primary visual style, then add specific elements and describe your content. For example: "Create a video in the Flat Folks style and add a confirmation animation when the task finishes." The main style sets the visual language; each element contributes its behavior. Ask your AI to identify incompatible instructions before combining them. A saved collection is a selection of resources, not automatically a design system or an installable plugin.
 
-As skills de outras pessoas que o site indica não ficam aqui. O crédito é todo de quem fez: a página e o install.md de cada uma levam ao repositório original.
+## Third-party recommendations
 
-## Sugestões e correções
+Third-party resources recommended on the site remain at their original sources. Their pages and install.md files credit the creators and link to their repositories. They are not copied into this library.
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome da skill ou do prompt no título. Para uma skill de terceiro, abra no repositório original.
+## Suggestions and fixes
 
-## Licença
+Open an issue at https://github.com/gssartori/skills/issues with the resource name in the title. For a third-party resource, report it to the original repository.
 
-- Skills e código: MIT ([LICENSE](LICENSE)).
-- Prompts: CC BY 4.0, no `LICENSE.md` de cada pasta de prompts. Use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link da página do prompt. Os vídeos que você fizer com eles são seus.
-- Adaptação de skill de outra pessoa mantém a licença original, que fica na pasta dela.
+This repository is generated from the site catalog. Manual edits are replaced by the next publication. Public documentation and instructions are written in English; existing resource names and stable URLs are preserved.
+
+## License
+
+- Skills and code: MIT ([LICENSE](LICENSE)).
+- Prompts: CC BY 4.0; see the `LICENSE.md` in each prompt collection. You may use and adapt them, including for paid work, with credit to Gabriel Sartori and a link to the prompt page. The videos you create with them are yours.
+- Adapted third-party skills retain their original license, included with the skill.

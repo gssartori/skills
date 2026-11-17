@@ -2,24 +2,26 @@
 
 ![Glow Grove](https://media.gsartori.com/skills/glow-grove/cover-93ae1d15.avif)
 
-Vídeo em miniatura de musgo ao entardecer: bichinhos-cogumelo de massinha e esporos que brilham.
+A miniature moss woodland at dusk: clay mushroom creatures and glowing spores.
 
-Monta um filme animado em JavaScript (1920×1080, com som) que parece um set de stop-motion visto de perto: musgo, tronco de bétula, cogumelos que brilham como lâmpadas e bichinhos de massinha que brotam, pulam e soltam esporos. Você descreve o assunto e o prompt monta o bosque.
+Create an animated JavaScript film (1920×1080, with sound) resembling a close-up stop-motion set: moss, birch wood, mushrooms glowing like lamps and clay creatures that sprout, hop and release spores. Describe your subject and the prompt builds the grove.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/glow-grove
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/glow-grove
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/glow-grove. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/glow-grove. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

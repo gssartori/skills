@@ -2,24 +2,26 @@
 
 ![Voxel Diorama](https://media.gsartori.com/skills/voxel-diorama/cover-1cbefa32.avif)
 
-Vídeo numa ilha flutuante de cubinhos: os blocos caem do céu, montam o cenário e cada parte do assunto ganha sua estação.
+A film on a floating voxel island: falling blocks build a world with a station for each idea.
 
-Monta um filme animado em JavaScript (1920×1080, com som) numa ilha flutuante feita de cubinhos, vista de cima em ângulo: os blocos caem do céu e se encaixam, com luz em três tons, sombras em degrau e cubos que brilham. Cada bloco faz um clique de brinquedo de madeira, com uma base musical leve.
+Create an animated JavaScript film (1920×1080, with sound) on a floating island of cubes viewed from an elevated angle. Blocks fall from the sky and snap into place, with three-tone lighting, stepped shadows and glowing cubes. Wooden-toy clicks accompany a light musical bed.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/voxel-diorama
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/voxel-diorama
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/voxel-diorama. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/voxel-diorama. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

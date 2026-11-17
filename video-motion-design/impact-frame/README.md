@@ -2,24 +2,26 @@
 
 ![Impact Frame](https://media.gsartori.com/skills/impact-frame/cover-dfe19c83.avif)
 
-Vídeo de mangá de luta: a página apanha, o obstáculo vira titã e cai em papel.
+An action-manga film: the page takes a hit, the obstacle becomes a giant and collapses into paper.
 
-Monta um filme animado em JavaScript (1920×1080, com taiko, madeira e papel) no estilo de mangá de ação: quadros de impacto com a página invertida, letreiros enormes e um obstáculo feito do próprio assunto, derrotado no clímax. Você descreve o assunto e o prompt faz a luta.
+Create an animated JavaScript film (1920×1080, with taiko, wood and paper sounds) in action-manga style: inverted-page impact frames, huge lettering and an obstacle built from the subject itself, defeated at the climax. Describe your subject and the prompt stages the fight.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/impact-frame
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/impact-frame
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/impact-frame. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/impact-frame. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.

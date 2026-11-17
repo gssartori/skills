@@ -2,24 +2,26 @@
 
 ![MacPaint 1984](https://media.gsartori.com/skills/macpaint-1984/cover-4b458cf4.avif)
 
-Vídeo em preto e branco de 1 bit, como os primeiros programas de pintura de 1984: janelas listradas e retratos pontilhados.
+A one-bit black-and-white film: striped windows and stippled portraits from early paint software.
 
-Monta um filme animado em JavaScript (1920×1080, com som) em preto e branco puro, como num programa de pintura de 1984: janelas com título listrado, alertas de borda dupla, texturas de 8×8 pixels, retratos pontilhados e a seleção de formigas andando. Pixel grande e nítido do começo ao fim.
+Create an animated JavaScript film (1920×1080, with sound) in pure black and white, like a 1984 paint program: striped title bars, double-bordered alerts, 8×8 pixel textures, stippled portraits and marching-ant selections. Large, crisp pixels remain consistent throughout.
 
-## Como usar
+## How to use
 
-O prompt está em [prompt.md](prompt.md).
+Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copie o prompt, troque a parte de Content pelo assunto do seu vídeo e mande para a sua IA (Claude, Gemini, ChatGPT ou Kimi). Ela entrega um arquivo HTML que toca com som e pode virar MP4.
+Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Funciona em: Claude, Gemini, ChatGPT, Kimi.
+Tags: Video.
 
-Prévia e detalhes: https://gsartori.com/skills/macpaint-1984
+Works with: Claude, Gemini, ChatGPT, Kimi.
 
-## Licença
+Preview and details: https://gsartori.com/skills/macpaint-1984
 
-CC BY 4.0: use e adapte à vontade, inclusive em trabalho pago, citando Gabriel Sartori com o link https://gsartori.com/skills/macpaint-1984. Detalhes no [LICENSE.md](../LICENSE.md).
+## License
 
-## Sugestões e correções
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/macpaint-1984. See [LICENSE.md](../LICENSE.md).
 
-Abra uma issue em https://github.com/gssartori/skills/issues com o nome do prompt no título.
+## Suggestions and fixes
+
+Open an issue at https://github.com/gssartori/skills/issues with the prompt name in the title.
