@@ -1,0 +1,39 @@
+name: Propose a piece for a design system
+description: Suggest a basic component or a special piece for one of the design systems on gsartori.com.
+title: "[Design system] "
+body:
+  - type: input
+    id: design-system
+    attributes:
+      label: Design system
+      description: The design system slug, as in its page address (for example simbionte).
+    validations:
+      required: true
+  - type: input
+    id: kind
+    attributes:
+      label: Kind of piece
+      description: button, toggle, checkbox, loader, tooltip, table, or another kind.
+    validations:
+      required: true
+  - type: dropdown
+    id: basic-or-special
+    attributes:
+      label: Basic component or special piece?
+      options:
+        - Basic component
+        - Special piece
+    validations:
+      required: true
+  - type: textarea
+    id: prompt
+    attributes:
+      label: Prompt or instructions
+      description: The text you gave your AI to make it, following the rules.md of the design system.
+    validations:
+      required: true
+  - type: textarea
+    id: demo
+    attributes:
+      label: Demo
+      description: Paste a single HTML file or link to one that shows the piece working.

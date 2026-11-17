@@ -1,65 +1,86 @@
-# Win95 Desktop
+# Win95 Desktop design system
 
-Build one finished animated film as a mid-1990s beige-box desktop operating system rendered on a crisp pixel buffer and nearest-neighbor upscaled to 1920x1080: every element of the story lives inside bevelled grey chrome windows, navy title bars, aliased bitmap text, dotted pixel arrows, and a classic taskbar with a waving four-pane flag. The story and technical delivery follow this text.
+A mid-1990s beige-box desktop operating system on a crisp pixel grid: bevelled grey chrome windows, navy title bars, aliased bitmap text, dotted pixel arrows and a classic taskbar with a waving four-pane flag. It works for landing pages, components, slides and videos. Every element lives inside the desktop.
 
-## The film you must not make
+## Identity
 
-The predictable version: modern smooth rounded-corner CSS cards with drop shadows, antialiased gradients inside title bars, generic flat vector icons, or static screenshots that never move. All of that fails. This film feels like a real 1995 desktop computer in live operation: crisp 2-pixel bevels, solid navy title bars, nearest-neighbor pixel scaling, active cursor navigation, hard-disk chatter, and mechanical mouse clicks.
+Teal desktop wallpaper (`#008080`) with a 24 px bottom taskbar, 2-pixel bevelled `#C0C0C0` window chrome (`#FFFFFF` / `#DFDFDF` top-left highlights, `#808080` / `#000000` bottom-right shadows), solid `#000080` active title bars (`#808080` when inactive), and aliased 1-bit pixel/bitmap typography.
 
-## 1. Identity
+**Three signatures every screen shows:**
 
-**Contract.** Teal desktop wallpaper (`#008080`) with a 24 px bottom taskbar, 2-pixel bevelled `#C0C0C0` window chrome (`#FFFFFF` / `#DFDFDF` top-left highlights, `#808080` / `#000000` bottom-right shadows), solid `#000080` active title bars, and aliased 1-bit pixel/bitmap typography rendered onto a low-res logical buffer (`640x360` upscaled `3x` nearest-neighbor to `1920x1080`, `imageSmoothingEnabled = false`).
-
-**Three signatures that any still frame must show:**
-
-1. Authentic 2-pixel bevelled grey chrome (`#C0C0C0`) with solid `#000080` active title bars (or `#808080` inactive), close/minimize/maximize bevel buttons, and a bottom taskbar with `Start` button and system clock.
-2. Crisp nearest-neighbor pixel aesthetic (`640x360` logical buffer upscaled `3x` to `1920x1080`) with aliased bitmap text, 2x2 Bayer ordered dithering on any shaded panel, and dotted pixel arrows.
+1. Authentic 2-pixel bevelled grey chrome (`#C0C0C0`) with solid `#000080` title bars, close/minimize/maximize bevel buttons, and a bottom taskbar with a `Start` button and a system clock.
+2. A crisp pixel aesthetic: integer scaling with nearest-neighbor pixels, aliased bitmap text, 2x2 Bayer ordered dithering on any shaded panel, and dotted pixel arrows.
 3. Active desktop interaction: an aliased pixel arrow (or hourglass) cursor clicking tabs, dragging windows, or triggering dialogs that open with 3-step outline-zoom rectangles.
 
 **Three exclusions:** never smooth antialiased drop shadows or blurred glass; never linear gradients inside title bars; never unmotivated fade transitions or static dead frames.
 
-## 2. Priorities
+## Pixels
 
-The content brief decides subject, facts, characters, on-screen language and duration. This style decides only how it is drawn, moved and heard. If the brief locks a sequence of events, keep every event, its order and its meaning; vary only the treatment. Never invent story facts to fit the style and never add a caption the brief did not ask for. A requested aspect ratio is a recomposition of the desktop windows, never a stretch.
+Design on a low-resolution logical grid and scale it up by whole numbers (2x, 3x) with nearest-neighbor sampling (`image-rendering: pixelated` on the web, `imageSmoothingEnabled = false` on a canvas). Snap every coordinate to an integer pixel (`Math.round`). Never blur or smooth the pixels.
 
-## 3. Material primitives
+## Materials
 
-Pre-render static bitmap font atlases (one per ink color) and dithered background panels before `ready` resolves; draw each frame onto the `640x360` offscreen buffer with `imageSmoothingEnabled = false`, then blit nearest-neighbor to the `1920x1080` output canvas.
-
-- **Desktop & Chrome.** Teal `#008080` wallpaper. Chrome face `#C0C0C0`, highlight `#FFFFFF`, light `#DFDFDF`, shadow `#808080`, dark `#000000`.
-- **Bevels (2 px logical = 6 px at 1080p).**
+- **Desktop & Chrome.** Teal `#008080` wallpaper. Chrome face `#C0C0C0`, highlight `#FFFFFF`, light `#DFDFDF`, shadow `#808080`, black `#000000`.
+- **Bevels (2 px logical).**
   - `window`: outer TL `#DFDFDF`, BR `#000000`; inner TL `#FFFFFF`, BR `#808080`.
   - `button`: outer TL `#FFFFFF`, BR `#000000`; inner TL `#DFDFDF`, BR `#808080`.
   - `pressed`: outer TL `#000000`, BR `#FFFFFF`; inner TL `#808080`, BR `#DFDFDF`.
   - `field` (sunken): outer TL `#808080`, BR `#FFFFFF`; inner TL `#000000`, BR `#DFDFDF`.
 - **Dithered Shading.** Use a 2x2 Bayer matrix (`[[0, 0.5], [0.75, 0.25]]`) to dither between palette bands on left wizard banners or active taskbar buttons (white/grey checker).
-- **Palette.** Teal `#008080`, chrome `#C0C0C0`, navy `#000080`, white `#FFFFFF`, black `#000000`, shadow `#808080`, tooltip cream `#FFFFE1`, error red `#FF0000`, success green `#008000`, accent amber `#E8D050`, highlight cyan `#40A0D0`.
-- **Lettering.** Crisp aliased bitmap system font for all UI chrome, tabs, status bars, and badges, plus hard-thresholded `Inter` (700/800, alpha threshold > 120 snapped to 255/0) for large display headlines and key numbers. Effective minimums at `1920x1080`: titles >= 66 px (22 px logical at 3x), essential labels >= 42 px (14 px logical at 3x), key numbers >= 96 px (32 px logical at 3x), captions >= 40 px. Always place dark text on `#FFFFFF`, `#C0C0C0`, or `#FFFFE1` tooltip plates, or white text on `#000080` navy selection bars.
-- **Finish.** Integer-pixel snapping on all coordinates (`Math.round`), crisp 1 px logical pixel outlines (`#000000`), and subtle CRT monitor bezel/scanline hint at most 3% alpha if desired—never blurring the sharp 3x pixels.
+- **Palette.** Teal `#008080`, chrome `#C0C0C0`, navy `#000080`, white `#FFFFFF`, black `#000000`, shadow `#808080`, tooltip cream `#FFFFE1`, error red `#FF0000`, success green `#008000` (`#00A000` for the success icon), accent amber `#E8D050`, highlight cyan `#40A0D0`.
+- **Lettering.** Crisp aliased bitmap system font for all UI chrome, tabs, status bars and badges, plus hard-thresholded `Inter` (700/800, alpha threshold > 120 snapped to 255/0) for large display headlines and key numbers. Minimum logical sizes: titles 22 px, essential labels 14 px, key numbers 32 px. Always place black text on `#FFFFFF`, `#C0C0C0` or `#FFFFE1` tooltip plates, or white text on `#000080` navy selection bars.
+- **Finish.** Crisp 1 px logical outlines (`#000000`); an optional CRT bezel/scanline hint at most 3% alpha, never blurring the pixels.
 
-## 4. Material time
+## Time
 
-Smooth `30 fps` cursor travel, camera pan/zoom, and window motion paired with authentic stepped/quantized OS interactions (progress bar blocks ticking in discrete 7x10 px navy segments, 6–8 Hz blinking focus rectangles, and stepped laggy redraws when an error dialog is dragged).
+Smooth cursor travel and window motion, paired with authentic stepped OS interactions: progress bars tick in discrete 7x10 px navy blocks, focus rectangles blink at 6–8 Hz, and a dragged error dialog redraws in laggy steps.
 
-- **Continuous Motion.** Every frame updates something: cursor gliding along eased paths, desktop clock/spinner/LEDs pulsing, progress blocks filling, active data icons flying along dotted paths, or smooth camera framing across the `640x360` buffer. No more than 10% of frames may be identical to the previous frame, and nothing stays still for more than 4 frames.
-- **Three-Beat Action.** Dialogs and elements enter via 3-frame outline-zoom rectangles or crisp pop-in with 1-frame settle; active controls keep subtle idle feedback (blinking caret, spinning hourglass, pulsing status bar); elements exit via window minimize/close or outline-zoom collapse over `0.25–0.45 s`.
+- **Something is always alive.** The cursor glides along eased paths, the clock, hourglass and LEDs pulse, progress blocks fill, data icons fly along dotted paths.
+- **Three-beat action.** Dialogs and elements enter with 3-frame outline-zoom rectangles or a crisp pop-in with a 1-frame settle; active controls keep subtle idle feedback (blinking caret, spinning hourglass, pulsing status bar); elements leave by minimize/close or an outline-zoom collapse over `0.25–0.45 s`.
+- **Reduced motion.** With `prefers-reduced-motion: reduce`, keep the stepped state changes and drop travel, zooms and blinking.
 
-## 5. Piece vocabulary
+## Piece vocabulary
 
-Turn any noun of the brief into a Win95 desktop piece:
+Turn any noun into a Win95 desktop piece:
 
-- **Central Object / System.** A full-featured application window or tabbed Property Sheet (`628x328` logical) with menu bar, group boxes (`etched` border + inset title), trackbar sliders, navy-block progress bars, and a 2-pane status bar whose gauges and controls physically change state as the story progresses.
-- **Figure (Character).** Crisp pixel-art characters (16x16 to 48x48 logical sprites scaled cleanly 2x–4x inside the 640x360 buffer, so 100–380+ px tall at 1080p) with distinct silhouettes, solid palette fills, 1 px black pixel outlines, blinking eyes (~0.14 s every ~3 s), and expressive reactions (sweat drop, raised arms, wide eyes).
-- **List Item.** Desktop icons (`32x32` logical pixel art + centered label), file-explorer items, or sunken-bevel `#FFFFFF` mini-window cards inside a group box, each containing a distinct, recognizable pixel-art illustration of its task drawn in local coordinates inside the card.
-- **Arrow / Connection.** Dotted pixel lines (`2x2` px dots spaced every `4 px`) that draw on progressively and end in a crisp pixel arrowhead, with data cards or signals stepping/flying along the path.
-- **Label.** Crisp aliased text on `#FFFFE1` tooltip boxes (`1 px` `#000000` border), `#000080` navy selection bars, or `#C0C0C0` bevelled buttons, drawn in a top pass so nothing covers them.
-- **Counter.** Numeric counter inside a sunken `#FFFFFF` field or status bar, ticking upward along an ease-out curve and locking in a `#000080` navy highlight box.
-- **Progress Graph.** Sunken `#FFFFFF` chart canvas with dotted grey gridlines, pixel-stepped green/navy line plot, square data markers, and a `#FFFFE1` tooltip callout landing on the final point.
-- **Error Mark.** Classic `#FF0000` circle-X icon + `SYSTEM` error dialog (`bevel` frame) or blinking `#FF0000` focus box + backward dotted red arrow returning to sliders/weights; optional dragged error box smearing a stair-step trail of 4–6 copies. **Fix / Success Mark:** `#00A000` green circle-check + navy highlight + classic info message box.
-- **Emphasis.** Blinking `#FF0000` dotted focus rectangle or camera zoom (`1.5x–2.0x` on the `640x360` buffer) framing the active group box.
-- **Header.** Opening dialog title (`>= 66 px` effective) that outline-zooms into the main application's navy title bar.
+- **Central Object / System.** An application window or tabbed Property Sheet with menu bar, group boxes (`etched` border + inset title), trackbar sliders, navy-block progress bars, and a 2-pane status bar whose gauges and controls change state.
+- **Figure (Character).** Crisp pixel-art characters (16x16 to 48x48 logical sprites scaled cleanly 2x–4x) with distinct silhouettes, solid palette fills, 1 px black pixel outlines, blinking eyes (~0.14 s every ~3 s), and expressive reactions (sweat drop, raised arms, wide eyes).
+- **List Item.** Desktop icons (`32x32` logical pixel art + centered label), file-explorer items, or sunken-bevel `#FFFFFF` mini-window cards inside a group box, each with a distinct pixel-art illustration of its task drawn inside the card.
+- **Arrow / Connection.** Dotted pixel lines (`2x2` px dots spaced every `4 px`) that draw on progressively and end in a crisp pixel arrowhead, with data cards or signals stepping along the path.
+- **Label.** Crisp aliased text on `#FFFFE1` tooltip boxes (`1 px` `#000000` border), `#000080` navy selection bars, or `#C0C0C0` bevelled buttons, always on top.
+- **Counter.** A number inside a sunken `#FFFFFF` field or status bar, ticking upward along an ease-out curve and locking in a `#000080` navy highlight box.
+- **Progress Graph.** Sunken `#FFFFFF` chart with dotted grey gridlines, a pixel-stepped green/navy line, square data markers, and a `#FFFFE1` tooltip on the final point.
+- **Error Mark.** Classic `#FF0000` circle-X icon + `SYSTEM` error dialog (`bevel` frame) or a blinking `#FF0000` focus box + backward dotted red arrow; a dragged error box may smear a stair-step trail of 4–6 copies. **Fix / Success Mark:** `#00A000` green circle-check + navy highlight + classic info message box.
+- **Emphasis.** A blinking `#FF0000` dotted focus rectangle or a zoom (`1.5x–2.0x`) framing the active group box.
+- **Header.** A dialog title that outline-zooms into the main application's navy title bar.
+- **Toggle.** A bevelled button that sinks (`pressed` bevel) when on, with a pixel indicator; never a rounded pill switch.
 
-## 6. Story grammar
+## Accessibility
+
+- Real controls underneath the pixels: buttons, switches with `aria-checked`, keyboard focus shown as the dotted focus rectangle.
+- Text stays real text where the medium allows; contrast follows the plate rules above.
+
+# Win95 Desktop
+
+Build one finished animated film as a mid-1990s beige-box desktop operating system rendered on a crisp pixel buffer and nearest-neighbor upscaled to 1920x1080: every element of the story lives inside bevelled grey chrome windows, navy title bars, aliased bitmap text, dotted pixel arrows, and a classic taskbar with a waving four-pane flag. The design system rules above set the look; this recipe turns them into a film. The story and technical delivery follow this text.
+
+## The film you must not make
+
+The predictable version: modern smooth rounded-corner CSS cards with drop shadows, antialiased gradients inside title bars, generic flat vector icons, or static screenshots that never move. All of that fails. This film feels like a real 1995 desktop computer in live operation: crisp 2-pixel bevels, solid navy title bars, nearest-neighbor pixel scaling, active cursor navigation, hard-disk chatter, and mechanical mouse clicks.
+
+## 1. Rendering these rules on film
+
+- **Buffer.** Render on a `640x360` logical buffer upscaled `3x` nearest-neighbor to `1920x1080` (`imageSmoothingEnabled = false`). Pre-render static bitmap font atlases (one per ink color) and dithered background panels before `ready` resolves; draw each frame onto the `640x360` offscreen buffer, then blit nearest-neighbor to the `1920x1080` output canvas. Bevels of 2 px logical are 6 px at 1080p.
+- **Every still frame** shows the three signatures of the rules: bevelled chrome with navy title bars and the taskbar, crisp `3x` pixels, and the cursor in action.
+- **Lettering at 1080p.** Effective minimums at `1920x1080`: titles >= 66 px (22 px logical at 3x), essential labels >= 42 px (14 px logical at 3x), key numbers >= 96 px (32 px logical at 3x), captions >= 40 px.
+- **Time.** Smooth `30 fps` cursor travel, camera pan/zoom and window motion, with the stepped OS interactions of the rules. Every frame updates something; no more than 10% of frames may be identical to the previous frame, and nothing stays still for more than 4 frames. Smooth camera framing across the `640x360` buffer.
+- **Scale of pieces.** The central Property Sheet is `628x328` logical. Figures are 16x16 to 48x48 logical sprites scaled 2x–4x inside the 640x360 buffer, so 100–380+ px tall at 1080p. Emphasis zooms the camera `1.5x–2.0x` on the `640x360` buffer. The opening header is `>= 66 px` effective.
+
+## 2. Priorities
+
+The content brief decides subject, facts, characters, on-screen language and duration. This style decides only how it is drawn, moved and heard. If the brief locks a sequence of events, keep every event, its order and its meaning; vary only the treatment. Never invent story facts to fit the style and never add a caption the brief did not ask for. A requested aspect ratio is a recomposition of the desktop windows, never a stretch.
+
+## 3. Story grammar
 
 ### Cast construction
 
@@ -92,7 +113,7 @@ Exactly one peak moment: a `0.25 s` pause before the climax, followed by a bold 
 
 Frame 0 is already the hook—desktop loaded, first dialog/character immediately in motion (never an empty screen). Vary camera framing across `1.0x` wide desktop and `1.5x–2.0x` close-ups on active windows/figures (while keeping all essential labels inside safe margins so nothing clips at zoom). For `10–15 s` films: 3 to 4 main blocks with 2 to 3 physical OS transitions. Write a beat table first so picture and sound share one clock.
 
-## 7. Transitions
+## 4. Transitions
 
 Every scene or beat change (`0.3–0.6 s`) is a physical Win95 OS event—never a generic dissolve:
 
@@ -101,11 +122,11 @@ Every scene or beat change (`0.3–0.6 s`) is a physical Win95 OS event—never 
 3. **Camera Pan / Zoom Across Desktop.** Smooth eased pan/zoom (`0.4–0.7 s`) across the `640x360` buffer to frame a new window or cluster, snapped cleanly on nearest-neighbor pixels.
 4. **Error Cascade / Window Drag.** An error dialog pops up and is dragged across the screen, leaving a stair-step trail of frozen copies that clears on the next window focus.
 
-## 8. Camera
+## 5. Camera
 
 Virtual camera panning and zooming over the `640x360` logical pixel buffer (`1.0x` to `2.0x` zoom, nearest-neighbor upscaled to `1920x1080`). Keep all text and icons inside safe margins (`>= 24 px` logical from edges) so zoomed shots never clip headlines or taskbar elements.
 
-## 9. Sound
+## 6. Sound
 
 Synthesize 100% of audio in Web Audio API (`48000 Hz` stereo), sharing the exact beat clock with the visual animation. Every sound lands within 1 frame (`33 ms`) of its visual contact/click. Sample peaks in the final stage must stay at or below `-4 dBFS` (no hard clipper) so the exported MP4 sits around `-16 LUFS` with true peaks below `-1 dBFS`.
 
@@ -126,11 +147,11 @@ Synthesize 100% of audio in Web Audio API (`48000 Hz` stereo), sharing the exact
   12. **Ending Resolve:** soft `G4 -> C5` chime + subtle `C4` triangle sustain, fading cleanly `0.1 s` before end.
 - **Density & Mix.** `4` to `15` audible events per second, max `3` foreground sounds simultaneously, pan `(x / 640 - 0.5) * 1.2`, compressor (`-16 dB` threshold, `3:1`, `4 ms` attack, `180 ms` release), master gain `0.88`.
 
-## 10. Hero frame
+## 7. Hero frame
 
 The closing wide shot (held `>= 1.2 s`): the full `Win95 Desktop` at `1920x1080` showing the resolved main application window, the celebratory message box with bold display headline (`>= 120 px` effective), the taskbar with `Start` button and clock, crisp 2-pixel bevels, aliased bitmap text, and the two background house animals tucked cleanly in the desktop corners.
 
-## 11. Style check
+## 8. Style check
 
 Before finishing, inspect rendered frames at `0%`, `10%`, `25%`, `50%`, `75%`, and `95%`:
 - Is frame 0 already a strong, active desktop hook (never an empty teal screen)?

@@ -6,6 +6,7 @@ A growing library of reusable instructions for AI: video styles, design elements
 
 - [video-motion-design/](video-motion-design/): Style prompts for complete animated films, with visual previews.
 - [design-elements/](design-elements/): Reusable visual elements: buttons, controls, indicators, text, backgrounds and effects. Motion is one of their properties.
+- [design-systems/](design-systems/): visual design systems with rules, basic components and special pieces. Paste the rules into any AI.
 
 ## How to use
 
@@ -27,7 +28,7 @@ Third-party resources recommended on the site remain at their original sources. 
 
 ## Suggestions and fixes
 
-Open an issue at https://github.com/gssartori/skills/issues with the resource name in the title. For a third-party resource, report it to the original repository.
+Open an issue at https://github.com/gssartori/skills/issues with the resource name in the title. For a third-party resource, report it to the original repository. To propose a piece for a design system, see [CONTRIBUTING.md](CONTRIBUTING.md).
 
 This repository is generated from the site catalog. Manual edits are replaced by the next publication. Public documentation and instructions are written in English; existing resource names and stable URLs are preserved.
 
