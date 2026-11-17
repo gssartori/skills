@@ -1,6 +1,6 @@
 # Symbiote Toggle
 
-![Symbiote Toggle](https://media.gsartori.com/skills/toggle-simbionte/cover-62f5734b.avif)
+![Symbiote Toggle](https://media.gsartori.com/skills/simbionte-toggle/cover-62f5734b.avif)
 
 A toggle where a black droplet reaches out six fingers, wraps the thumb and pulls it; switching off pushes it back and retreats.
 
@@ -14,15 +14,15 @@ Copy the prompt, say where the control goes (landing page, app, video) and what 
 
 Tags: Toggle.
 
-Live demo: https://media.gsartori.com/skills/toggle-simbionte/demo-97983fb0.html
+Live demo: https://media.gsartori.com/skills/simbionte-toggle/demo-97983fb0.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
 
-Preview and details: https://gsartori.com/skills/toggle-simbionte
+Preview and details: https://gsartori.com/skills/simbionte-toggle
 
 ## License
 
-CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/toggle-simbionte. See [LICENSE.md](../LICENSE.md).
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/simbionte-toggle. See [LICENSE.md](../LICENSE.md).
 
 ## Suggestions and fixes
 

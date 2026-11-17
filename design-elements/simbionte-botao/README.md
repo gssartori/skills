@@ -1,6 +1,6 @@
 # Symbiote Button
 
-![Symbiote Button](https://media.gsartori.com/skills/botao-simbionte/cover-26632928.avif)
+![Symbiote Button](https://media.gsartori.com/skills/simbionte-botao/cover-26632928.avif)
 
 A button of living black matter: elastic strands grow from its edges, grab the cursor, stretch and snap.
 
@@ -14,15 +14,15 @@ Copy the prompt, say where the control goes (landing page, app, video) and what 
 
 Tags: Button, Hover.
 
-Live demo: https://media.gsartori.com/skills/botao-simbionte/demo-9ec17ef4.html
+Live demo: https://media.gsartori.com/skills/simbionte-botao/demo-9ec17ef4.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
 
-Preview and details: https://gsartori.com/skills/botao-simbionte
+Preview and details: https://gsartori.com/skills/simbionte-botao
 
 ## License
 
-CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/botao-simbionte. See [LICENSE.md](../LICENSE.md).
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/simbionte-botao. See [LICENSE.md](../LICENSE.md).
 
 ## Suggestions and fixes
 

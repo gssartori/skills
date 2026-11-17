@@ -6,7 +6,7 @@ A mid-1990s beige-box desktop operating system on a crisp pixel grid: bevelled g
 
 Teal desktop wallpaper (`#008080`) with a 24 px bottom taskbar, 2-pixel bevelled `#C0C0C0` window chrome (`#FFFFFF` / `#DFDFDF` top-left highlights, `#808080` / `#000000` bottom-right shadows), solid `#000080` active title bars (`#808080` when inactive), and aliased 1-bit pixel/bitmap typography.
 
-**Three signatures every screen shows:**
+**Three signatures every desktop scene shows** (a single component carries at least the bevelled chrome and the crisp pixels):
 
 1. Authentic 2-pixel bevelled grey chrome (`#C0C0C0`) with solid `#000080` title bars, close/minimize/maximize bevel buttons, and a bottom taskbar with a `Start` button and a system clock.
 2. A crisp pixel aesthetic: integer scaling with nearest-neighbor pixels, aliased bitmap text, 2x2 Bayer ordered dithering on any shaded panel, and dotted pixel arrows.

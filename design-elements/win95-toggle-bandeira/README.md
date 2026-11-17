@@ -1,6 +1,6 @@
 # Win95 Flag Toggle
 
-![Win95 Flag Toggle](https://media.gsartori.com/skills/toggle-win95-bandeira/cover-d7430744.avif)
+![Win95 Flag Toggle](https://media.gsartori.com/skills/win95-toggle-bandeira/cover-d7430744.avif)
 
 A 1990s desktop toggle: the bevelled button sinks and a pixel flag climbs the pole, waving.
 
@@ -14,15 +14,15 @@ Copy the prompt, say where the toggle goes (landing page, app, video) and what i
 
 Tags: Toggle.
 
-Live demo: https://media.gsartori.com/skills/toggle-win95-bandeira/demo-faaaa76e.html
+Live demo: https://media.gsartori.com/skills/win95-toggle-bandeira/demo-faaaa76e.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
 
-Preview and details: https://gsartori.com/skills/toggle-win95-bandeira
+Preview and details: https://gsartori.com/skills/win95-toggle-bandeira
 
 ## License
 
-CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/toggle-win95-bandeira. See [LICENSE.md](../LICENSE.md).
+CC BY 4.0: use and adapt, including for paid work, with credit to Gabriel Sartori and a link to https://gsartori.com/skills/win95-toggle-bandeira. See [LICENSE.md](../LICENSE.md).
 
 ## Suggestions and fixes
 
