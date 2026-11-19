@@ -26,22 +26,26 @@ By Gabriel Sartori. Browse [gsartori.com](https://gsartori.com/skills) for previ
 <td width="33%" valign="top"><a href="macpaint-1984/"><img src="https://media.gsartori.com/skills/macpaint-1984/cover-4b458cf4.avif" alt="MacPaint 1984" width="280"><br><strong>MacPaint 1984</strong></a><br>A one-bit black-and-white film: striped windows and stippled portraits from early paint software.</td>
 </tr>
 <tr>
+<td width="33%" valign="top"><a href="palma-deco/"><img src="https://media.gsartori.com/skills/palma-deco/cover-faadfcd9.avif" alt="Palma Deco" width="280"><br><strong>Palma Deco</strong></a><br>Art Deco silhouettes reveal a layered scene in two or three colors. A thin neon edge travels around the contour and leads into the next shot.</td>
+<td width="33%" valign="top"><a href="palma-estuario/"><img src="https://media.gsartori.com/skills/palma-estuario/cover-02fc0acd.avif" alt="Tidal Intaglio" width="280"><br><strong>Tidal Intaglio</strong></a><br>The camera crosses a coastal engraving. Nearby carved lines reveal a second landscape printed inside the silhouette.</td>
 <td width="33%" valign="top"><a href="tankobon-story/"><img src="https://media.gsartori.com/skills/tankobon-story/cover-4471fe16.avif" alt="Tankobon Story" width="280"><br><strong>Tankobon Story</strong></a><br>A printed black-and-white manga film: halftone screens, tilted panels and hand-drawn sound effects.</td>
+</tr>
+<tr>
 <td width="33%" valign="top"><a href="textbook-cutaway/"><img src="https://media.gsartori.com/skills/textbook-cutaway/cover-1cf564ed.avif" alt="Textbook Cutaway" width="280"><br><strong>Textbook Cutaway</strong></a><br>A science-textbook film: a cutaway block with layers, ducts and precise labels.</td>
 <td width="33%" valign="top"><a href="vector-arcade-1980/"><img src="https://media.gsartori.com/skills/vector-arcade-1980/cover-b919496f.avif" alt="Vector Arcade 1980" width="280"><br><strong>Vector Arcade 1980</strong></a><br>A vector-arcade film: light traces on a CRT, glowing phosphor and lingering trails.</td>
+<td width="33%" valign="top"><a href="vhs-camcorder/"><img src="https://media.gsartori.com/skills/vhs-camcorder/cover-c59efe03.avif" alt="VHS Camcorder" width="280"><br><strong>VHS Camcorder</strong></a><br>A 1990s camcorder film: scan lines, color bleed, tracking bands and a PLAY overlay.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="vhs-camcorder/"><img src="https://media.gsartori.com/skills/vhs-camcorder/cover-c59efe03.avif" alt="VHS Camcorder" width="280"><br><strong>VHS Camcorder</strong></a><br>A 1990s camcorder film: scan lines, color bleed, tracking bands and a PLAY overlay.</td>
 <td width="33%" valign="top"><a href="vintage-newsprint/"><img src="https://media.gsartori.com/skills/vintage-newsprint/cover-94c2b2f3.avif" alt="Vintage Newsprint" width="280"><br><strong>Vintage Newsprint</strong></a><br>A 1950s newspaper film: yellowed paper, halftone illustrations and red-pencil annotations.</td>
 <td width="33%" valign="top"><a href="voxel-diorama/"><img src="https://media.gsartori.com/skills/voxel-diorama/cover-1cbefa32.avif" alt="Voxel Diorama" width="280"><br><strong>Voxel Diorama</strong></a><br>A film on a floating voxel island: falling blocks build a world with a station for each idea.</td>
+<td width="33%" valign="top"><a href="watercolor-wash-motion/"><img src="https://media.gsartori.com/skills/watercolor-wash-motion/cover-75f45735.avif" alt="Watercolor Wash" width="280"><br><strong>Watercolor Wash</strong></a><br>A watercolor film: transparent paint layers, drying edges and textured cotton paper.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="watercolor-wash-motion/"><img src="https://media.gsartori.com/skills/watercolor-wash-motion/cover-75f45735.avif" alt="Watercolor Wash" width="280"><br><strong>Watercolor Wash</strong></a><br>A watercolor film: transparent paint layers, drying edges and textured cotton paper.</td>
 <td width="33%" valign="top"><a href="whiteboard-explainer-motion/"><img src="https://media.gsartori.com/skills/whiteboard-explainer-motion/cover-ee3ced49.avif" alt="Whiteboard Explainer" width="280"><br><strong>Whiteboard Explainer</strong></a><br>A film drawn live with whiteboard markers, erased between sections with traces left behind.</td>
 <td width="33%" valign="top"><a href="win95-desktop/"><img src="https://media.gsartori.com/skills/win95-desktop/cover-72c50be3.avif" alt="Win95 Desktop" width="280"><br><strong>Win95 Desktop</strong></a><br>A film inside a 1990s desktop: beveled gray windows, blue title bars and crisp pixels.</td>
+<td width="33%" valign="top"><a href="wood-type-letterpress/"><img src="https://media.gsartori.com/skills/wood-type-letterpress/cover-81d20578.avif" alt="Wood-Type Letterpress" width="280"><br><strong>Wood-Type Letterpress</strong></a><br>A wood-type poster film: black and red ink stamped onto thick textured paper.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="wood-type-letterpress/"><img src="https://media.gsartori.com/skills/wood-type-letterpress/cover-81d20578.avif" alt="Wood-Type Letterpress" width="280"><br><strong>Wood-Type Letterpress</strong></a><br>A wood-type poster film: black and red ink stamped onto thick textured paper.</td>
 <td width="33%" valign="top"><a href="y2k-liquid-chrome/"><img src="https://media.gsartori.com/skills/y2k-liquid-chrome/cover-fdc5e7c9.avif" alt="Y2K Liquid Chrome" width="280"><br><strong>Y2K Liquid Chrome</strong></a><br>A turn-of-the-millennium film: liquid mercury, inflated chrome lettering and iridescent ribbons.</td>
 </tr>
 </table>
