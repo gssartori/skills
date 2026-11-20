@@ -4,7 +4,7 @@
 
 Choose a destination to trace a route along the canal streets.
 
-Choose a destination to trace a route along the canal streets. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Choose a destination to trace a route along the canal streets. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

@@ -4,7 +4,7 @@
 
 Slide the sun across a coastal skyline to light its windows and turn day into night.
 
-Slide the sun across a coastal skyline to light its windows and turn day into night. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Slide the sun across a coastal skyline to light its windows and turn day into night. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

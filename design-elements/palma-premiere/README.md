@@ -4,7 +4,7 @@
 
 Open a cinema invitation to part velvet curtains and reveal the session in a dialog.
 
-Open a cinema invitation to part velvet curtains and reveal the session in a dialog. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Open a cinema invitation to part velvet curtains and reveal the session in a dialog. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

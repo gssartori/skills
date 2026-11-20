@@ -4,7 +4,7 @@
 
 Sort boats by finish time and follow each row into its new rank.
 
-Sort boats by finish time and follow each row into its new rank. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Sort boats by finish time and follow each row into its new rank. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

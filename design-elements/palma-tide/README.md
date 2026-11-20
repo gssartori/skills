@@ -4,7 +4,7 @@
 
 Switch between morning and afternoon to compare hourly levels and peak tide.
 
-Switch between morning and afternoon to compare hourly levels and peak tide. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Switch between morning and afternoon to compare hourly levels and peak tide. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

@@ -4,7 +4,7 @@
 
 Add or subtract laps and watch individual mechanical drums turn.
 
-Add or subtract laps and watch individual mechanical drums turn. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Add or subtract laps and watch individual mechanical drums turn. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

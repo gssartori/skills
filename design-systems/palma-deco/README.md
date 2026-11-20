@@ -1,4 +1,4 @@
-# Palma Deco
+# GTA 6
 
 Video styles and interactive components inspired by the GTA 6 opening, with layered silhouettes, engravings, enamel and coastal light.
 

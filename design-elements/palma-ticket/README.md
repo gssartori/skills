@@ -4,7 +4,7 @@
 
 Validate a boarding pass to tear away its stub and expose a registered seal.
 
-Validate a boarding pass to tear away its stub and expose a registered seal. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Validate a boarding pass to tear away its stub and expose a registered seal. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

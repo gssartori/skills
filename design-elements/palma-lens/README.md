@@ -4,7 +4,7 @@
 
 Drag a print-proof divider across the coast to compare sepia and full-color exposures.
 
-Drag a print-proof divider across the coast to compare sepia and full-color exposures. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Drag a print-proof divider across the coast to compare sepia and full-color exposures. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

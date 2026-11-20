@@ -1,6 +1,6 @@
 # Special pieces
 
-Signature pieces of Palma Deco. Each one lives in its own folder; this list only points to it.
+Signature pieces of GTA 6. Each one lives in its own folder; this list only points to it.
 
 - [Palma Deco](https://gsartori.com/skills/palma-deco) ([files](../../video-motion-design/palma-deco/))
 - [Tidal Intaglio](https://gsartori.com/skills/palma-estuario) ([files](../../video-motion-design/palma-estuario/))

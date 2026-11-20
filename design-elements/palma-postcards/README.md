@@ -4,7 +4,7 @@
 
 Leaf through three illustrated postcards as each destination swings to the front of the stack.
 
-Leaf through three illustrated postcards as each destination swings to the front of the stack. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Leaf through three illustrated postcards as each destination swings to the front of the stack. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

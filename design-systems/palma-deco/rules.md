@@ -1,4 +1,4 @@
-# Palma Deco
+# GTA 6
 
 An original coastal illustration system in which a drawn contour opens onto another place. Give an object enough specificity to read in solid ink before putting scenery or ornament inside it. Keep the palette of the world outside the contour distinct from the light seen through it. Build new figures, architecture, ornament and typography for the subject supplied by the reader.
 

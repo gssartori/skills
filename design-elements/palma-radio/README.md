@@ -4,7 +4,7 @@
 
 Slide a needle across four frequencies to tune in a fictional station.
 
-Slide a needle across four frequencies to tune in a fictional station. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Slide a needle across four frequencies to tune in a fictional station. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

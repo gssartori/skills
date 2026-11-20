@@ -4,7 +4,7 @@
 
 Raise a slatted garage door to reveal a coral coupe inside.
 
-Raise a slatted garage door to reveal a coral coupe inside. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Raise a slatted garage door to reveal a coral coupe inside. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 

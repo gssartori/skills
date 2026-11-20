@@ -4,7 +4,7 @@
 
 Select a film chapter to shuttle the contact sheet under a fixed projection gate.
 
-Select a film chapter to shuttle the contact sheet under a fixed projection gate. An interactive piece from the Palma Deco family with keyboard and reduced-motion support.
+Select a film chapter to shuttle the contact sheet under a fixed projection gate. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
