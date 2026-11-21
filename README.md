@@ -7,6 +7,7 @@ A growing library of reusable instructions for AI: video styles, design elements
 - [video-motion-design/](video-motion-design/): Style prompts for complete animated films, with visual previews.
 - [design-elements/](design-elements/): Reusable visual elements: buttons, controls, indicators, text, backgrounds and effects. Motion is one of their properties.
 - [design-systems/](design-systems/): visual design systems with rules, basic components and special pieces. Paste the rules into any AI.
+- [kits/](kits/): lists of pieces that work well together.
 
 ## How to use
 
@@ -17,6 +18,28 @@ A growing library of reusable instructions for AI: video styles, design elements
 **Plugin:** an installable package that can contain multiple skills and other agent capabilities.
 
 There are no installable plugins in this repository yet. Browse the prompt collections above.
+
+## Kits
+
+A kit is a list of pieces that work well together. It is not a plugin: each piece keeps its own folder.
+
+### Video motion design
+
+- [3D and miniature](kits/3d-and-miniature/README.md): Video styles in 3D, dioramas and miniatures.
+- [Hand-drawn](kits/hand-drawn/README.md): Video styles made of chalk, pencil, crayon, whiteboard and hand-drawn lines.
+- [Manga and comics](kits/manga-and-comics/README.md): Video styles inspired by manga, comics and Brazilian gibi magazines.
+- [Painting](kits/painting/README.md): Video styles of watercolor, thick oil paint and ink.
+- [Print and newsreel](kits/print-and-newsreel/README.md): Video styles of newsprint, wood type and newsreels.
+- [Retro computers and screens](kits/retro-screens/README.md): Video styles from vintage computers, vector arcades and camcorder tape.
+- [Traditional crafts](kits/traditional-crafts/README.md): Video styles from old crafts: stained glass, paper cutting, shadow puppetry, illuminated manuscripts and Japanese prints.
+
+### Design elements
+
+- [Buttons and controls](kits/buttons-and-controls/README.md): Buttons, toggles, sliders, radio groups and counters ready to copy.
+- [Data and tables](kits/data-and-tables/README.md): Tables, charts, timelines, comparisons, pricing and timers.
+- [GTA 6](kits/gta-6/README.md): Pieces inspired by the GTA 6 opening: layered silhouettes, engravings, metal and coastal light.
+- [Menus and navigation](kits/menus-and-navigation/README.md): Menus, navigation, disclosure sections and carousels.
+- [Motion and loading](kits/motion-and-loading/README.md): Motion and hover effects for buttons.
 
 ## Combine resources
 

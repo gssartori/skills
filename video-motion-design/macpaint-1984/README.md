@@ -4,7 +4,7 @@
 
 A one-bit black-and-white film: striped windows and stippled portraits from early paint software.
 
-Create an animated JavaScript film (1920×1080, with sound) in pure black and white, like a 1984 paint program: striped title bars, double-bordered alerts, 8×8 pixel textures, stippled portraits and marching-ant selections. Large, crisp pixels remain consistent throughout.
+Create an animated JavaScript film (1920×1080, with sound) in pure black and white, like a 1984 paint program, with striped title bars, double-bordered alerts, stippled portraits and large, crisp pixels throughout. Use it for technology and computing history topics, or to give an explanation a retro, minimalist look.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Retro computers and screens](../../kits/retro-screens/README.md)
 
 Preview and details: https://gsartori.com/skills/macpaint-1984
 

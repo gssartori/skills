@@ -4,7 +4,7 @@
 
 Select a film chapter to shuttle the contact sheet under a fixed projection gate.
 
-Select a film chapter to shuttle the contact sheet under a fixed projection gate. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Select a film chapter to shuttle the contact sheet under a fixed projection gate and show when each scene starts. Use it to pick between the chapters of a video, a lesson or a presentation. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Timeline, Navigation.
-
 Live demo: https://media.gsartori.com/skills/palma-filmstrip/demo-a1967d06.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Data and tables](../../kits/data-and-tables/README.md), [GTA 6](../../kits/gta-6/README.md), [Menus and navigation](../../kits/menus-and-navigation/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-filmstrip
 

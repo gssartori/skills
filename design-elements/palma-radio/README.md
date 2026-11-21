@@ -4,7 +4,7 @@
 
 Slide a needle across four frequencies to tune in a fictional station.
 
-Slide a needle across four frequencies to tune in a fictional station. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Slide a needle across four frequencies to tune in a fictional station, with its name and frequency changing together. Use it to choose between a few options on a scale, such as a playlist, a theme or a level. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Slider.
-
 Live demo: https://media.gsartori.com/skills/palma-radio/demo-1adfc240.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Buttons and controls](../../kits/buttons-and-controls/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-radio
 

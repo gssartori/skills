@@ -4,7 +4,7 @@
 
 A film inside a brass orrery: polished arms, gears and stone spheres orbiting above green velvet.
 
-Create an animated JavaScript film (1920×1080, with sound) as a collector’s brass orrery. Polished arms extend from tubes around a golden center; ideas become stone spheres and people become brass figures with enamel faces. A crank drives visible gears until all arms align at the climax.
+Create an animated JavaScript film (1920×1080, with sound) as a collector’s brass orrery: each idea becomes a stone sphere on a turning arm, and a crank drives everything through visible gears until the arms align at the climax. Use it to show how the parts of a plan, a team or a system move together until they fall into place.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [3D and miniature](../../kits/3d-and-miniature/README.md)
 
 Preview and details: https://gsartori.com/skills/clockwork-orbits
 

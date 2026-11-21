@@ -4,7 +4,7 @@
 
 Switch between morning and afternoon to compare hourly levels and peak tide.
 
-Switch between morning and afternoon to compare hourly levels and peak tide. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Switch between morning and afternoon to redraw the hourly curve and peak tide from the same measured points. Use it to compare two data sets in one chart, such as two periods, two versions or a before and after. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Chart.
-
 Live demo: https://media.gsartori.com/skills/palma-tide/demo-c3286f74.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Data and tables](../../kits/data-and-tables/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-tide
 

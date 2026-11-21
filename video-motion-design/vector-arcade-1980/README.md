@@ -4,7 +4,7 @@
 
 A vector-arcade film: light traces on a CRT, glowing phosphor and lingering trails.
 
-Create an animated JavaScript film (1920×1080, with sound) resembling a 1980 vector arcade display. A beam draws everything as luminous lines, with bright corners, slight jitter and slowly fading phosphor trails. Arcade audio includes transformer hum and beam sweeps.
+Create an animated JavaScript film (1920×1080, with sound) resembling a 1980 vector arcade display, with everything drawn as luminous beam lines, slowly fading phosphor trails and arcade machine audio. Use it for technology, gaming and science topics, or to give an explanation the feel of an 1980s arcade.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Retro computers and screens](../../kits/retro-screens/README.md)
 
 Preview and details: https://gsartori.com/skills/vector-arcade-1980
 

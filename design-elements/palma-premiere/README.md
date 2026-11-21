@@ -4,7 +4,7 @@
 
 Open a cinema invitation to part velvet curtains and reveal the session in a dialog.
 
-Open a cinema invitation to part velvet curtains and reveal the session in a dialog. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Open a cinema invitation to part velvet curtains and reveal the session in a dialog. Use it to reveal an important piece of information with ceremony, such as a launch date, an invitation or an announcement. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Dialog.
-
 Live demo: https://media.gsartori.com/skills/palma-premiere/demo-46fa84af.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-premiere
 

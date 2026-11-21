@@ -4,7 +4,7 @@
 
 Drag a print-proof divider across the coast to compare sepia and full-color exposures.
 
-Drag a print-proof divider across the coast to compare sepia and full-color exposures. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Drag a print-proof divider across the same coast to compare sepia and full-color exposures. Use it to show a before and after, such as an edited image, a renovation or two versions of a design. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Comparison, Slider.
-
 Live demo: https://media.gsartori.com/skills/palma-lens/demo-4430227b.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Buttons and controls](../../kits/buttons-and-controls/README.md), [Data and tables](../../kits/data-and-tables/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-lens
 

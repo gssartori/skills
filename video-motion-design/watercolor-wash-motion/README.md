@@ -4,7 +4,7 @@
 
 A watercolor film: transparent paint layers, drying edges and textured cotton paper.
 
-Create an animated JavaScript film (1920×1080, with sound) in watercolor on cotton paper: transparent pigment layers, deeper-toned drying edges, spreading washes, granulation and a visible pencil underdrawing. Suited to gentle stories and explanations.
+Create an animated JavaScript film (1920×1080, with sound) in watercolor on cotton paper, with transparent pigment layers, deeper-toned drying edges, spreading washes and a visible pencil underdrawing. Use it for gentler, more delicate stories and explanations that call for a handmade look.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Painting](../../kits/painting/README.md)
 
 Preview and details: https://gsartori.com/skills/watercolor-wash-motion
 

@@ -4,7 +4,7 @@
 
 An animator’s lightbox film: blue-pencil roughs, graphite cleanup and a pencil test in motion.
 
-Create an animated JavaScript film (1920×1080, with pencil and paper sounds) seen from above an animation lightbox. Each idea is roughed out in blue pencil and cleaned up in graphite, with lower sheets showing through the light and a pencil test at the climax.
+Create an animated JavaScript film (1920×1080, with pencil and paper sounds) seen from above an animation lightbox: each idea is roughed out in blue pencil, cleaned up in graphite and comes alive in a pencil test at the climax. Use it to show an idea being born and taking shape, such as a creative process, a project under construction or a before and after.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Hand-drawn](../../kits/hand-drawn/README.md)
 
 Preview and details: https://gsartori.com/skills/lightbox-test
 

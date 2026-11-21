@@ -4,7 +4,7 @@
 
 A miniature moss woodland at dusk: clay mushroom creatures and glowing spores.
 
-Create an animated JavaScript film (1920×1080, with sound) resembling a close-up stop-motion set: moss, birch wood, mushrooms glowing like lamps and clay creatures that sprout, hop and release spores. Describe your subject and the prompt builds the grove.
+Create an animated JavaScript film (1920×1080, with sound) resembling a close-up stop-motion set, with moss, mushrooms glowing like lamps and clay creatures that sprout, hop and release spores. Use it for gentle, enchanted stories, children’s content or to bring warmth to themes of nature, growth and discovery.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [3D and miniature](../../kits/3d-and-miniature/README.md)
 
 Preview and details: https://gsartori.com/skills/glow-grove
 

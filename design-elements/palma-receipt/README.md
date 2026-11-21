@@ -4,7 +4,7 @@
 
 Add or remove berth nights to print a recalculated marina receipt.
 
-Add or remove berth nights to print a recalculated marina receipt. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Add or remove berth nights to print a recalculated marina receipt at the counter. Use it to show a price that changes with quantity, such as in a quote, a booking or an order. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Pricing.
-
 Live demo: https://media.gsartori.com/skills/palma-receipt/demo-113ba0ec.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Data and tables](../../kits/data-and-tables/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-receipt
 

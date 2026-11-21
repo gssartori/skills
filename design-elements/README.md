@@ -41,6 +41,12 @@ By Gabriel Sartori. Browse [gsartori.com](https://gsartori.com/skills) for previ
 <td width="33%" valign="top"><a href="simbionte-toggle/"><img src="https://media.gsartori.com/skills/simbionte-toggle/cover-62f5734b.avif" alt="Symbiote Toggle" width="280"><br><strong>Symbiote Toggle</strong></a><br>A toggle where a black droplet reaches out six fingers, wraps the thumb and pulls it; switching off pushes it back and retreats.</td>
 </tr>
 <tr>
-<td width="33%" valign="top"><a href="win95-toggle-bandeira/"><img src="https://media.gsartori.com/skills/win95-toggle-bandeira/cover-d7430744.avif" alt="Win95 Flag Toggle" width="280"><br><strong>Win95 Flag Toggle</strong></a><br>A 1990s desktop toggle: the bevelled button sinks and a pixel flag climbs the pole, waving.</td>
+<td width="33%" valign="top"><a href="win95-botao-crt/"><img src="https://media.gsartori.com/skills/win95-botao-crt/cover-a74f5a66.avif" alt="Win95 CRT Power Button" width="280"><br><strong>Win95 CRT Power Button</strong></a><br>A miniature CRT monitor. On hover, phosphor opens from a point into a line and a picture. Press the button to light up the screen and reveal a tiny desktop.</td>
+<td width="33%" valign="top"><a href="win95-radio-lanternas/"><img src="https://media.gsartori.com/skills/win95-radio-lanternas/cover-4ec73f9d.avif" alt="Win95 Lantern Radio Group" width="280"><br><strong>Win95 Lantern Radio Group</strong></a><br>Three hanging lanterns act as exclusive choices. Select a lamp to give it a brief swing and light it in amber, cyan or green.</td>
+<td width="33%" valign="top"><a href="win95-teclado-iluminado/"><img src="https://media.gsartori.com/skills/win95-teclado-iluminado/cover-8dc55315.avif" alt="Win95 Backlit Scene Keypad" width="280"><br><strong>Win95 Backlit Scene Keypad</strong></a><br>Three backlit keys shift a tiny pixel-art studio between day, evening and standby.</td>
+</tr>
+<tr>
+<td width="33%" valign="top"><a href="win95-toggle-bandeira/"><img src="https://media.gsartori.com/skills/win95-toggle-bandeira/cover-d5c945bf.avif" alt="Win95 Framed Pixel Flag" width="280"><br><strong>Win95 Framed Pixel Flag</strong></a><br>A four-color cloth flag in a bevelled desktop frame. Hover to make the fabric wave or press to give it a stronger impulse.</td>
+<td width="33%" valign="top"><a href="win95-toggle-cores/"><img src="https://media.gsartori.com/skills/win95-toggle-cores/cover-0d1c1a51.avif" alt="Win95 Color Switch" width="280"><br><strong>Win95 Color Switch</strong></a><br>A square mechanical switch. Turn it on to send the flag tile right with a turn and a four-color reveal.</td>
 </tr>
 </table>

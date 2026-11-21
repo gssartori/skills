@@ -4,7 +4,7 @@
 
 A film drawn in childhood crayons: scribbles outside the lines, a strip of sky and a sun in the corner.
 
-Create an animated JavaScript film (1920×1080, with sound) like a child’s drawing on the refrigerator: crayons on paper over a kitchen table, strokes skipping across the grain, scribbled fills and hand lettering. The drawing appears stroke by stroke, then comes to life with a hand-drawn wobble.
+Create an animated JavaScript film (1920×1080, with sound) like a child’s drawing on the refrigerator: crayon on paper, scribbled fills and hand lettering, drawn stroke by stroke and then wobbling to life. Use it for simple, heartfelt stories, content for children or to explain a complicated idea in a way anyone can follow.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video, Hand-drawn.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Hand-drawn](../../kits/hand-drawn/README.md)
 
 Preview and details: https://gsartori.com/skills/crayon-fridge
 

@@ -4,7 +4,7 @@
 
 A toggle where a black droplet reaches out six fingers, wraps the thumb and pulls it; switching off pushes it back and retreats.
 
-A light ceramic toggle with a thumb sphere and a small droplet of living black matter. Switching on, the droplet forms tips, reaches out six fingers of different lengths, wraps the sphere and only then pulls it across, leaving crossing filaments. Switching off, the ceramic reappears, the sphere is pushed back, the fingers let go and retreat into the droplet. An interruption resumes from the current pose. It is a special piece of the Symbiote design system. It stays a real switch, with keyboard and announced state; with reduced motion the change is immediate. Inspired by the Venom Button by exteestudio (github.com/exteestudio/venom-button); the code was written from scratch.
+A toggle where a droplet of living black matter reaches out six fingers, wraps the sphere and pulls it across when switched on, then pushes it back and retreats when switched off. Use it for an on/off control that should stand out, such as a key setting or a special moment of a landing page; it is a special piece of the Symbiote design system. It stays a real switch, with keyboard and announced state, changes immediately with reduced motion and was inspired by the Venom Button by exteestudio (github.com/exteestudio/venom-button), with the code written from scratch.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, say where the control goes (landing page, app, video) and what it does, and give it to your AI (Claude, Gemini, ChatGPT or Kimi). It delivers the code in HTML and JavaScript, with WebGL and a fallback without GPU.
 
-Tags: Toggle.
-
 Live demo: https://media.gsartori.com/skills/simbionte-toggle/demo-97983fb0.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Buttons and controls](../../kits/buttons-and-controls/README.md)
 
 Preview and details: https://gsartori.com/skills/simbionte-toggle
 

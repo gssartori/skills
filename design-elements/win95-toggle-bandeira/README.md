@@ -1,22 +1,22 @@
-# Win95 Flag Toggle
+# Win95 Framed Pixel Flag
 
-![Win95 Flag Toggle](https://media.gsartori.com/skills/win95-toggle-bandeira/cover-d7430744.avif)
+![Win95 Framed Pixel Flag](https://media.gsartori.com/skills/win95-toggle-bandeira/cover-d5c945bf.avif)
 
-A 1990s desktop toggle: the bevelled button sinks and a pixel flag climbs the pole, waving.
+A four-color cloth flag in a bevelled desktop frame. Hover to make the fabric wave or press to give it a stronger impulse.
 
-A toggle in the Win95 Desktop look: a grey bevelled window, a navy title bar and a button that sinks when on, with a green light. Switching on, a four-color flag climbs the pole in pixel steps and waves; switching off, it comes down and rests. The status bar announces the state. It is the special piece of the Win95 Desktop design system, for landing pages, apps and videos with an old-computer feel. It works with the keyboard; with reduced motion the flag just appears in place, without waving.
+A four-color cloth flag in a bevelled desktop frame. Hover to make the fabric wave or press to give it a stronger impulse. Use it as an action button or an interactive emblem in a retro interface.
 
 ## How to use
 
 Open [prompt.md](prompt.md) and give its instructions to your AI.
 
-Copy the prompt, say where the toggle goes (landing page, app, video) and what it switches, and give it to your AI (Claude, Gemini, ChatGPT or Kimi). It delivers dependency-free HTML, CSS and JavaScript.
+Copy the prompt and tell your AI where to use the component and which action it controls.
 
-Tags: Toggle.
-
-Live demo: https://media.gsartori.com/skills/win95-toggle-bandeira/demo-faaaa76e.html
+Live demo: https://media.gsartori.com/skills/win95-toggle-bandeira/demo-138abad3.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Buttons and controls](../../kits/buttons-and-controls/README.md)
 
 Preview and details: https://gsartori.com/skills/win95-toggle-bandeira
 

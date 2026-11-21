@@ -4,7 +4,7 @@
 
 Slide the sun across a coastal skyline to light its windows and turn day into night.
 
-Slide the sun across a coastal skyline to light its windows and turn day into night. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Slide the sun across a coastal skyline to light its windows and turn day into night, and back again on a second tap. Use it to switch between two states, such as the light and night themes of a site or the before and after of a scene. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Toggle.
-
 Live demo: https://media.gsartori.com/skills/palma-city-light/demo-577c9b4b.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Buttons and controls](../../kits/buttons-and-controls/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-city-light
 

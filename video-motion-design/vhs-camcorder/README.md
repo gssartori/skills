@@ -4,7 +4,7 @@
 
 A 1990s camcorder film: scan lines, color bleed, tracking bands and a PLAY overlay.
 
-Create an animated JavaScript film (1920×1080, with sound) like a 1990s camcorder tape played on a CRT television: scan lines, sideways color bleed, tracking bands and camcorder overlays for playback, counter, battery and date. Soft analog synth music mixes with VCR noises.
+Create an animated JavaScript film (1920×1080, with sound) like a 1990s camcorder tape played on a CRT television, with scan lines, color bleed, tracking bands, camcorder overlays and VCR noises. Use it for memories, behind-the-scenes content and stories with the nostalgia of a 1990s home video.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Retro computers and screens](../../kits/retro-screens/README.md)
 
 Preview and details: https://gsartori.com/skills/vhs-camcorder
 

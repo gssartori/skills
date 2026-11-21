@@ -4,7 +4,7 @@
 
 A film drawn live with whiteboard markers, erased between sections with traces left behind.
 
-Create an animated JavaScript film (1920×1080, with sound) drawn live in whiteboard markers: hand tremor, uneven ink and an eraser that clears each section while leaving ghost marks. The markers rest on the aluminum tray below.
+Create an animated JavaScript film (1920×1080, with sound) drawn live in whiteboard markers, with hand tremor, uneven ink and an eraser that clears each section while leaving ghost marks. Use it to explain a concept, give a short lesson or walk through a process step by step.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Hand-drawn](../../kits/hand-drawn/README.md)
 
 Preview and details: https://gsartori.com/skills/whiteboard-explainer-motion
 

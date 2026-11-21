@@ -4,7 +4,7 @@
 
 Start, pause and reset a lap with synchronized analog and digital time.
 
-Start, pause and reset a lap with synchronized analog and digital time. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
+Start, pause and reset a lap with synchronized analog and digital time. Use it to measure or show time on screen, such as in a workout, a timed challenge or a video that counts how long something takes. An interactive piece from the GTA 6 design system with keyboard and reduced-motion support.
 
 ## How to use
 
@@ -12,11 +12,11 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt and describe where the component will appear. For motion graphics, specify when the gesture and state change happen.
 
-Tags: Timer.
-
 Live demo: https://media.gsartori.com/skills/palma-chrono/demo-59f9a97e.html
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Data and tables](../../kits/data-and-tables/README.md), [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-chrono
 

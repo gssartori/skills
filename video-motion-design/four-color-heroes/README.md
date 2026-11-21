@@ -4,7 +4,7 @@
 
 A classic superhero comic film: halftone dots, four-color printing and a cover at the end.
 
-Create an animated JavaScript film (1920×1080, with brass-band music) in the style of four-color superhero comics: halftone dots, explosive lettering, a hero for each part of the subject and a final cover with radiating rays. Describe your subject and the prompt builds the comic.
+Create an animated JavaScript film (1920×1080, with brass-band music) as a four-color superhero comic, with halftone dots, explosive lettering, a hero for each part of the subject and a final cover with radiating rays. Use it to turn a challenge, an achievement or a team into a heroic adventure, with energy and humor.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Manga and comics](../../kits/manga-and-comics/README.md)
 
 Preview and details: https://gsartori.com/skills/four-color-heroes
 

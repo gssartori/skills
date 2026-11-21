@@ -4,7 +4,7 @@
 
 The camera crosses a coastal engraving. Nearby carved lines reveal a second landscape printed inside the silhouette.
 
-Turn a brief into a moving editorial print with tapered hatching, petrol shadows, warm grazing light and scenery registered independently behind a moving aperture.
+Turn a brief into a moving editorial print with tapered hatching, petrol shadows, warm grazing light and scenery registered independently behind a moving aperture. Use it for calmer, editorial narratives, such as the story of a place, a brand or a feature report.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content section with your story and ask your AI for a self-contained HTML film with sound. Export to MP4 in an environment with video rendering.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [GTA 6](../../kits/gta-6/README.md)
 
 Preview and details: https://gsartori.com/skills/palma-estuario
 

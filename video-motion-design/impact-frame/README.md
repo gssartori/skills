@@ -4,7 +4,7 @@
 
 An action-manga film: the page takes a hit, the obstacle becomes a giant and collapses into paper.
 
-Create an animated JavaScript film (1920×1080, with taiko, wood and paper sounds) in action-manga style: inverted-page impact frames, huge lettering and an obstacle built from the subject itself, defeated at the climax. Describe your subject and the prompt stages the fight.
+Create an animated JavaScript film (1920×1080, with taiko, wood and paper sounds) in action-manga style: inverted-page impact frames, huge lettering and an obstacle built from the subject itself, defeated at the climax. Use it to tell how a problem was overcome, such as a goal reached or a hard turnaround, with the energy of a fight scene.
 
 ## How to use
 
@@ -12,9 +12,9 @@ Open [prompt.md](prompt.md) and give its instructions to your AI.
 
 Copy the prompt, replace the Content brief with your subject and give it to your AI (Claude, Gemini, ChatGPT or Kimi). Ask for an HTML film with sound; MP4 export depends on the rendering tools available in your workflow.
 
-Tags: Video.
-
 Works with: Claude, Gemini, ChatGPT, Kimi.
+
+Kits: [Manga and comics](../../kits/manga-and-comics/README.md)
 
 Preview and details: https://gsartori.com/skills/impact-frame
 
