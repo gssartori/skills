@@ -26,11 +26,15 @@ A kit is a list of pieces that work well together. It is not a plugin: each piec
 ### Video motion design
 
 - [3D and miniature](kits/3d-and-miniature/README.md): Video styles in 3D, dioramas and miniatures.
+- [Classic film and cartoons](kits/classic-film-and-cartoons/README.md): Video styles from silent cinema, vintage cartoons, 80s anime and film title sequences.
+- [Diagrams and explainers](kits/diagrams-and-explainers/README.md): Video styles that explain how things work: blueprints, maps, exploded views, infographics and manuals.
+- [Graphic design in motion](kits/graphic-design-motion/README.md): Poster and type video styles: art deco, Bauhaus, Swiss design, neon and words on the beat.
 - [Hand-drawn](kits/hand-drawn/README.md): Video styles made of chalk, pencil, crayon, whiteboard and hand-drawn lines.
 - [Manga and comics](kits/manga-and-comics/README.md): Video styles inspired by manga, comics and Brazilian gibi magazines.
 - [Painting](kits/painting/README.md): Video styles of watercolor, thick oil paint and ink.
 - [Print and newsreel](kits/print-and-newsreel/README.md): Video styles of newsprint, wood type and newsreels.
 - [Retro computers and screens](kits/retro-screens/README.md): Video styles from vintage computers, vector arcades and camcorder tape.
+- [Screens, apps and games](kits/screens-and-games/README.md): Screen video styles: apps, sci-fi dashboards, TV shows and quick games.
 - [Traditional crafts](kits/traditional-crafts/README.md): Video styles from old crafts: stained glass, paper cutting, shadow puppetry, illuminated manuscripts and Japanese prints.
 
 ### Design elements

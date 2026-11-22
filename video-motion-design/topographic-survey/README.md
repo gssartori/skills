@@ -14,6 +14,8 @@ Copy the prompt, replace the Content brief with your subject and give it to your
 
 Works with: Claude, Gemini, ChatGPT, Kimi.
 
+Kits: [Diagrams and explainers](../../kits/diagrams-and-explainers/README.md)
+
 Preview and details: https://gsartori.com/skills/topographic-survey
 
 ## License
