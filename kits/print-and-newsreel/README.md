@@ -20,5 +20,6 @@ Video styles of newsprint, wood type and newsreels.
 - [Vintage Engraving Collage](https://gsartori.com/skills/lemo-vintage-collage)
 - [Ukiyo-e](https://gsartori.com/skills/lemo-ukiyoe)
 - [Ukiyo-e Woodblock Scroll](../../video-motion-design/ukiyo-e-woodblock/)
+- [Archive Light Table](https://gsartori.com/skills/lemo-archive-light-table)
 
 Browse this kit on the site: https://gsartori.com/kits/print-and-newsreel

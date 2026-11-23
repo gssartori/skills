@@ -17,5 +17,6 @@ Video styles from vintage computers, vector arcades and camcorder tape.
 - [2.5D Pixel Art](https://gsartori.com/skills/lemo-hd-2d)
 - [1-bit Dither](https://gsartori.com/skills/lemo-one-bit-dither)
 - [Oscilloscope Math](https://gsartori.com/skills/lemo-oscilloscope-math)
+- [Radar Sweep Documentary](https://gsartori.com/skills/lemo-radar-sweep)
 
 Browse this kit on the site: https://gsartori.com/kits/retro-screens

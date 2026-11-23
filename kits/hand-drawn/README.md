@@ -18,5 +18,6 @@ Video styles made of chalk, pencil, crayon, whiteboard and hand-drawn lines.
 - [Whiteboard Explainer](https://gsartori.com/skills/lemo-whiteboard)
 - [Tablet Sketch Explainer](https://gsartori.com/skills/lemo-tablet-sketch)
 - [Marker on Paper](https://gsartori.com/skills/lemo-marker-paper)
+- [ClaudeAnimationBase](https://gsartori.com/skills/claude-animation-base)
 
 Browse this kit on the site: https://gsartori.com/kits/hand-drawn

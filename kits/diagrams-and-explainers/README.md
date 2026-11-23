@@ -18,5 +18,10 @@ Video styles that explain how things work: blueprints, maps, exploded views, inf
 - [Satellite Briefing](https://gsartori.com/skills/lemo-satellite-briefing)
 - [Engineering Briefing Board](https://gsartori.com/skills/lemo-briefing-board)
 - [Spreadsheet Film](https://gsartori.com/skills/lemo-spreadsheet)
+- [LiDAR Survey](https://gsartori.com/skills/lemo-lidar-survey)
+- [Under the Microscope](https://gsartori.com/skills/lemo-under-the-microscope)
+- [Security X-ray](https://gsartori.com/skills/lemo-security-x-ray)
+- [Data Storytelling](https://gsartori.com/skills/lemo-data-storytelling)
+- [Transit Map](https://gsartori.com/skills/lemo-transit-map)
 
 Browse this kit on the site: https://gsartori.com/kits/diagrams-and-explainers

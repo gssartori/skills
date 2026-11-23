@@ -14,5 +14,6 @@ Poster and type video styles: art deco, Bauhaus, Swiss design, neon and words on
 - [Firefly Pointillism](https://gsartori.com/skills/lemo-firefly-pointillism)
 - [Flow-field Wind Lines](https://gsartori.com/skills/lemo-flow-field)
 - [Pen Plotter](https://gsartori.com/skills/lemo-pen-plotter)
+- [Blob Simulation](https://gsartori.com/skills/lemo-blob-simulation)
 
 Browse this kit on the site: https://gsartori.com/kits/graphic-design-motion

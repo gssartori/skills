@@ -12,5 +12,6 @@ Screen video styles: apps, sci-fi dashboards, TV shows and quick games.
 - [Rhythm Game Show](https://gsartori.com/skills/lemo-game-show)
 - [Microgame Frenzy](https://gsartori.com/skills/lemo-microgame)
 - [Sports Telestrator](https://gsartori.com/skills/lemo-telestrator)
+- [Thermal Camera](https://gsartori.com/skills/lemo-thermal-camera)
 
 Browse this kit on the site: https://gsartori.com/kits/screens-and-games
