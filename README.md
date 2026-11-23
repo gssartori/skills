@@ -45,6 +45,10 @@ A kit is a list of pieces that work well together. It is not a plugin: each piec
 - [Menus and navigation](kits/menus-and-navigation/README.md): Menus, navigation, disclosure sections and carousels.
 - [Motion and loading](kits/motion-and-loading/README.md): Motion and hover effects for buttons.
 
+### programacao
+
+- [My favorite skills](kits/minhas-skills-favoritas/README.md): The skills I use the most every day, from coding to research, video and writing.
+
 ## Combine resources
 
 Choose a primary visual style, then add specific elements and describe your content. For example: "Create a video in the Flat Folks style and add a confirmation animation when the task finishes." The main style sets the visual language; each element contributes its behavior. Ask your AI to identify incompatible instructions before combining them. A saved collection is a selection of resources, not automatically a design system or an installable plugin.
